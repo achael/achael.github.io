@@ -45,7 +45,7 @@ Both because EHT measurements are sparse and because absolute phase calibration 
 {% include gallery id="gallery2" caption="(Left) an image of M87 at 230 GHz from one of my simulations. (Right) the image reconstructed with `eht-imaging` from realistic simulated data similar to the EHT's observations in 2017. The circle at the lower right represents the EHT's effective resolution" %}{: .text-center}
 {: .align-right}
 
-As a leader in the EHT's Imaging Working Group, I develop new Bayesian imaging methods to push the EHT's imaging capabilities to higher fidelity and higher resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). 
+As a leading member of the EHT's Imaging Working Group, I develop new Bayesian imaging methods to push the EHT's imaging capabilities to higher fidelity and higher resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). 
 
 My software library [`eht-imaging`](https://github.com/achael/eht-imaging) has become a standard tool across the collaboration for imaging and analyzing EHT data (see [Software](/_pages/software) for more information). The techniques and software I've developed for the EHT have wide application across radio and optical interferomerty, and we are currently exploring their application on [LOFAR](http://www.lofar.org/) and [ALMA](http://www.almaobservatory.org/en/home/) observations. 
 
