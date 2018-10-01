@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Black Hole Simulations"
+    url: _pages/simulating
+  - title: "EHT Imaging"
+    url: _pages/imaging
+  - title: "Software"
+    url: _pages/software
+  - title: "Publications"
+    url: _pages/pubs
+  - title: "Talks"
+    url: _pages/talks
+  - title: "CV"
+    url: _pages/cv
+
