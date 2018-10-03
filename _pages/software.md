@@ -16,10 +16,10 @@ header:
 ---
 ### `eht-imaging`
 
-I wrote `eht-imaging` (alternatively `ehtim`) as a python framework for implementing regularized maximum likelihood imaging methods for the EHT. In the last two years, it has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis.
+I wrote `eht-imaging` (alternatively `ehtim`) as a python framework for implementing regularized maximum likelihood imaging methods on EHT data. In the last two years, it has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
 
-`ehtim` has already been used in 10 peer reviewed publications and is being used and developed by at least one group outside the EHT collaboration. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `eht-imaging` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
+`ehtim` has already been used in 10 peer reviewed publications and is currently being used and developed by at least one group outside the EHT collaboration. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `eht-imaging` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
 
 ### `KORAL`
 
-I maintain the two-temperature, radiative GRMHD code `KORAL` written by Aleksander Sadowski. In addition to adding new physics [like the spectral evolution of nonthermal electrons](https://arxiv.org/abs/1704.05092), I am also in the middle of refreshing the code, enhancing its performance and streamlining its structure to make future development easier. I hope to share a new, open-source version of `KORAL` on GitHub soon!
+I maintain the two-temperature, radiative GRMHD C code `KORAL` written by Aleksander Sadowski. In addition to adding new physics [like the spectral evolution of nonthermal electrons](https://arxiv.org/abs/1704.05092), I am also in the middle of refreshing the code, enhancing its performance and streamlining its structure to make future development easier. I hope to share a new, open-source version of `KORAL` on GitHub soon!
