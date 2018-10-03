@@ -17,7 +17,7 @@ header:
 You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/public-libraries/Y-fwlHqGRXagnloOFNyYyQ) or on [ArXiv](https://arxiv.org/a/chael_a_1.html).
 
 ### First Author Papers
-* **A Chael**, R Narayan, M Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87". in prep.
+* **A Chael**, R Narayan, M Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87". _MNRAS_ submitted.
 
 * **A Chael**, M Rowan, R Narayan, MD Johnson, L Sironi. "The role of electron heating physics in images and variability of the Galactic Center black hole Sagittarius A*''. _MNRAS_ 476, 2018.  
  [_MNRAS_](https://doi.org/10.1093/mnras/sty1261) | [arXiv](https://arxiv.org/abs/1804.06416)
