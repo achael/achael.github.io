@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
 ---
 
-You can see all of my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/public-libraries/Y-fwlHqGRXagnloOFNyYyQ).
+You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/public-libraries/Y-fwlHqGRXagnloOFNyYyQ) or on [ArXiv](https://arxiv.org/a/chael_a_1.html).
 
 ### First Author Papers
 * **A Chael**, R Narayan, M Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87". in prep.
