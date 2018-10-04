@@ -14,11 +14,11 @@ header:
   overlay_filter: "0.5"
 
 ---
-### `eht-imaging`
+### `ehtim`
 
-I wrote `eht-imaging` (alternatively `ehtim`) as a python framework for implementing regularized maximum likelihood imaging methods on EHT data. In the last two years, it has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
+I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regularized maximum likelihood imaging methods on EHT data. In the last two years, it has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
 
-`ehtim` has already been used in 10 peer reviewed publications and is currently being used and developed by at least one group outside the EHT collaboration. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `eht-imaging` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
+`ehtim` has already been used in 10 peer reviewed publications and is currently being used and developed by at least one group outside the EHT collaboration. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `ehtim` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
 
 ### `KORAL`
 

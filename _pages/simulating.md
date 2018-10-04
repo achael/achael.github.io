@@ -53,7 +53,7 @@ In my research, I use the massively parallel code [KORAL](https://arxiv.org/abs/
 {% include gallery id="gallery2" caption="Images of of the M87 jet at different frequencies from one of my MAD simulations (Chael+ 2018b). As the frequency increases, the brightest emission moves down the jet closer and closer to the black hole." %}{: .text-center}
 {: .align-right}
 
-{% include gallery id="gallery3" caption="Images from my MAD simulations of M87 using damped turbulence (left) and magnetic reconnection (right) to heat electrons" %}{: .text-center}
+{% include gallery id="gallery3" caption="230 GHz images from my MAD simulations of M87 using damped turbulence (left) and magnetic reconnection (right) to heat electrons" %}{: .text-center}
 {: .align-right}
 
 In [Chael+ 2017](https://arxiv.org/abs/1704.05092), I made a major update to `KORAL` by adding code to evolve a population of nonthermal electrons in space, time, and energy in
