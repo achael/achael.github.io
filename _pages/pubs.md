@@ -44,7 +44,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
 * KL Bouman, MD Johnson, A Dalca, **A Chael**, F Roelofs, SS Doeleman, W Freeman.
  "Reconstructing video from interferometric measurements of time-varying sources".
  _IEEE Transactions on  Computational Imaging,_ 2018.   
- [arXiv](https://arxiv.org/abs/1711.01357)
+ [_IEEE_](https://doi.org/10.1109/TCI.2018.2838452) [arXiv](https://arxiv.org/abs/1711.01357)
 
 * MD Johnson, KL Bouman, L Blackburn, **A Chael**, J Rosen, H Shiokawa, F Roelofs, K Akiyama, V Fish, SS Doeleman. 
  "Dynamical imaging with interferometry".
