@@ -18,6 +18,9 @@ header:
 * "Electron heating and particle acceleration in GRMHD simulations." _The Central Arcsecond: Towards Testing General Relativity in the Galactic Center._  
  Munich, Germany. November 2018.
 
+* "What will the EHT see? Electron heating in simulations of Sgr A* and M87." _Northwestern CIERA Theory Group Meeting._  
+ Evanston, IL. October 2018.
+
 * "Electron heating physics in images and variability of Sgr A*." _15th Marcel Grossman Meeting on General Relativity._  
  Rome, Italy. July 2018.
  [abstract](http://dbserver.icra.it:8080/mg15/FMPro?-db=3%5ftalk%5fmg15%5f.fp5&-format=riassunto2.htm&-lay=talk%5freg&-sortfield=order2&ps%3a%3aweb%5fcode=3125747397&main%5f1%3a%3aAttivo=Yes&talk%5faccept=Yes&flag=1&-max=50&-recid=33087&-find=) |
