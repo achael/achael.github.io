@@ -20,6 +20,7 @@ header:
 
 * "What will the EHT see? Electron heating in simulations of Sgr A* and M87." _Northwestern CIERA Theory Group Meeting._  
  Evanston, IL. October 2018.
+ [slides](/assets/pdfs/ciera_pres_achael.pdf)
 
 * "Electron heating physics in images and variability of Sgr A*." _15th Marcel Grossman Meeting on General Relativity._  
  Rome, Italy. July 2018.
