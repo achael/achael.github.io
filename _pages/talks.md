@@ -15,6 +15,11 @@ header:
 ---
 ### Invited Talks
 
+* "What will the Event Horizon Telescope see?" _Columbia Astronomy Thursday Seminar._  
+ New York, NY. November 2018.
+ [slides](/assets/pdfs/columbia_pres_achael.pdf)
+
+
 * "Electron heating and particle acceleration in GRMHD simulations." _The Central Arcsecond: Towards Testing General Relativity in the Galactic Center._  
  Schloss Ringberg, Bavaria, Germany. November 2018.
  [slides](/assets/pdfs/ringberg_pres_achael.pdf)
