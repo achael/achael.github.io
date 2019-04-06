@@ -19,11 +19,11 @@ gallery1:
     alt: "EHT 2017"
     title: "The stations of the Event Horizon Telescope"
 
-gallery2:
-  - url: /assets/images/sim_and_reconstruct.png
-    image_path: /assets/images/sim_and_reconstruct.png
-    alt: "Simulated EHT image of M87 and reconstruction with eht-imaging."
-    title: "(Left) an image of M87 at 230 GHz from one of my simulations. (Right) the image reconstructed with eht-imaging from realistic simulated data similar to the EHT's observations in 2017. The circle at the lower right represents the EHT's effective resolution"
+#gallery2:
+#  - url: /assets/images/sim_and_reconstruct.png
+#    image_path: /assets/images/sim_and_reconstruct.png
+#    alt: "Simulated EHT image of M87 and reconstruction with eht-imaging."
+#    title: "(Left) an image of M87 at 230 GHz from one of my simulations. (Right) the image reconstructed with eht-imaging from realistic simulated data similar to the EHT's observations in 2017. The circle at the lower right represents the EHT's effective resolution"
 
 gallery3:
   - url: /assets/images/hltau.png
