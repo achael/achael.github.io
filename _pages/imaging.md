@@ -42,8 +42,10 @@ By correlating the recorded electric field measured simultaneously at telescopes
 
 Both because EHT measurements are sparse and because absolute phase calibration at millimeter wavelengths is impossible, recovering an image from EHT observations is a difficult and ill-posed problem. Images must be _reconstructed_ using algorithms that find the best-fit images to data under a (hopefully minimal) set of additional assumptions about the source structure.
 
+
 #{% include gallery id="gallery2" caption="(Left) an image of M87 at 230 GHz from one of my simulations. (Right) the image reconstructed with `ehtim` from realistic simulated data similar to the EHT's observations in 2017. The circle at the lower right represents the EHT's effective resolution" %}{: .text-center}
 #{: .align-right}
+
 
 As a leading member of the EHT's Imaging Working Group, I develop new Bayesian imaging methods that push the EHT's imaging capabilities to higher fidelity and resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). 
 
