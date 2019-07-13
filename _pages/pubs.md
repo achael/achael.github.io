@@ -14,6 +14,8 @@ header:
   overlay_filter: "0.5"
 ---
 
+[Here](/assets/pdfs/achael_dissertation_final.pdf) is a link to my thesis. 
+
 You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/public-libraries/Y-fwlHqGRXagnloOFNyYyQ) or on [ArXiv](https://arxiv.org/a/chael_a_1.html).
 
 ### First Author Papers
