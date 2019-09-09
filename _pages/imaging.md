@@ -65,10 +65,7 @@ My software library [`ehtim`](https://github.com/achael/eht-imaging) has become 
  %}{: .text-center}
 {: .align-right}
 
-I work closely on developing imaging algorithms and applying them to EHT observations with [Katie Bouman](https://people.csail.mit.edu/klbouman/index.html), [Kazu Akiyama](http://kazuakiyama.github.io/pages/aboutme.html), and [Michael Johnson](http://www.scintillatingastronomy.com/). Below you can watch Katie's amazing TEDx talk where she explains the basics of EHT imaging.
-
-{% include video id="BIvezCVcsYs" provider="youtube" %}
-
+I work closely on developing imaging algorithms and applying them to EHT observations with [Katie Bouman](https://people.csail.mit.edu/klbouman/index.html), [Kazu Akiyama](http://kazuakiyama.github.io/pages/aboutme.html), and [Michael Johnson](http://www.scintillatingastronomy.com/).
 
 
 
