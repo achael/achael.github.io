@@ -25,7 +25,7 @@ gallery:
     title: "at the Pantheon in 2018"
 ---
 
-{% include figure image_path="/assets/images/chael.jpg" alt="Andrew Chael in 2019" %}{: .align-right}
+{% include figure image_path="/assets/images/chael2.jpg" alt="Andrew Chael in 2019" %}{: .align-right}
 
 I am a [NASA Hubble Fellowship Program (NHFP)](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program) [Einstein Fellow](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/meet-the-fellows) at the Princeton University [Center for Theoretical Science](http://pcts.princeton.edu/). I am a member of the [Event Horizon Telescope](http://eventhorizontelescope.org/) (EHT) collaboration.
 
