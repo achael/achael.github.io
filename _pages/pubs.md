@@ -14,13 +14,19 @@ header:
   overlay_filter: "0.5"
 ---
 
-[Here](/assets/pdfs/achael_dissertation_final.pdf) is a link to my thesis. 
-
 You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/public-libraries/Y-fwlHqGRXagnloOFNyYyQ) or on [ArXiv](https://arxiv.org/a/chael_a_1.html).
 
+### Dissertation
+
+[Here](/assets/pdfs/achael_dissertation_final.pdf) is a link to my thesis, "Simulating and Imaging Supermassive Black Hole Accretion Flows". 
+
+### EHT Collaboration Papers
+* **The Event Horizon  Telescope Collaboration** et al. "First M87 Event Horizon Telescope Results. I--VI". _ApJL_ 875, 2019.  
+ [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
+
 ### First Author Papers
-* **A Chael**, R Narayan, M Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87". submitted to _MNRAS_.  
- [arXiv](https://arxiv.org/abs/1810.01983)
+* **A Chael**, R Narayan, M Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87".  _MNRAS_ 486, 2019.  
+ [_MNRAS_](https://doi.org/10.1093/mnras/stz988) | [arXiv](https://arxiv.org/abs/1810.01983)
 
 * **A Chael**, M Rowan, R Narayan, MD Johnson, L Sironi. "The role of electron heating physics in images and variability of the Galactic Center black hole Sagittarius A*''. _MNRAS_ 478, 2018.  
  [_MNRAS_](https://doi.org/10.1093/mnras/sty1261) | [arXiv](https://arxiv.org/abs/1804.06416)
@@ -35,9 +41,13 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
  [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [arXiv](https://arxiv.org/abs/1605.06156)
 
 ### Other Selected Papers
+* S Issaoun, MD Johnson, L Blackburn, M Moscibrodzka, **A Chael**, H Falcke.
+ "VLBI imaging of black holes via second moment regularization. A&A 629, 2019.  
+[_A&A_](https://doi.org/10.1051/0004-6361/201936156) | [arXiv](https://arxiv.org/abs/1908.01296)
 
 * S Issaoun et al. 
- "The size, asymmetry, and scattering of Sagittarius A* at 86 GHz: first VLBI with ALMA". in prep.
+ "The size, shape, and scattering of Sagittarius A* at 86 GHz: first VLBI with ALMA". _ApJ_ 871, 2019.  
+[_ApJ_](https://doi.org/10.3847/1538-4357/aaf732) | [arXiv](https://arxiv.org/abs/1901.06226)
 
 * W Lu,  C Dvorkin, **A Chael**. 
  "Probing sub-GeV dark matter-baryon scattering with cosmological observables". _Phys. Rev. D_ 97, 2018.   

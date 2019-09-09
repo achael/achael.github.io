@@ -13,6 +13,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 
+gallery0:
+  - url: /assets/images/eht_banner.jpg
+    image_path: /assets/images/eht_banner.jpg
+    alt: "M87 in 2017"
+    title: "The first resolved images of a black hole taken by the EHT in 2017"
+
 gallery1:
   - url: /assets/images/EHT.jpg
     image_path: /assets/images/EHT_small.jpg
@@ -36,12 +42,11 @@ gallery3:
 
 The [EHT](http://eventhorizontelescope.org/) is globe-spanning [VLBI](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry) array that observes the nearest supermassive black holes in 
 <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A* </a> 
-and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017 and 2018 ([some pictures from the observations](https://eventhorizontelescope.org/galleries/2017-observations)) 
+and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017 and 2018 ([some pictures from the observations](https://eventhorizontelescope.org/galleries/2017-observations)) In April 2019, we published the results of our observations of M87; the first images of a supermassive black hole with resolution on event-horizon scales ([Read the papers](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)).
 
 By correlating the recorded electric field measured simultaneously at telescopes around the world, the EHT can effectively _synthesize_ the resolving power of an Earth-sized telescope with an angular resolution of about 10 _microarcseconds_ (1 / 360000000<sup>th</sup> of a degree!)
 
 Both because EHT measurements are sparse and because absolute phase calibration at millimeter wavelengths is impossible, recovering an image from EHT observations is a difficult and ill-posed problem. Images must be _reconstructed_ using algorithms that find the best-fit images to data under a (hopefully minimal) set of additional assumptions about the source structure.
-
 
 {% include gallery id="gallery2" caption="(Left) an image of M87 at 230 GHz from one of my simulations. (Right) the image reconstructed with `ehtim` from realistic simulated data similar to the EHT's observations in 2017. The circle at the lower right represents the EHT's effective resolution" %}{: .text-center}
 {: .align-right}

@@ -13,12 +13,34 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
+
+### Thesis Talk
+``Simulating and imaging supermassive black hole accretion flows.''  
+[video](https://www.youtube.com/watch?v=_kWLWihXQGs&feature=youtu.be)
+
+### Public Lectures
+* "Photographing black holes: first results from the Event Horizon Telescope." _Harvard University, Special Colloquium._  
+Cambridge, MA. April 2019.
+[video](https://www.youtube.com/watch?v=q6ZnAdNQNVo)
+
+* "Photographing a black hole with the Event Horizon Telescope." _Carleton College Special Lecture._  
+Northfield, MN. May 2019.
+
 ### Invited Talks
+
+* "In the shadow of the black hole." _GitHub Satellite 2019._  
+Berlin, Germany. May 2019.
+[video](https://www.youtube.com/watch?v=_RQBNCOU0RM)
+
+
+* "Two-temperature, radiative, MAD simulations of the supermassive black hole in M87." _ITC lunch (Keto Prize Talk)_.  
+Cambridge, MA. May 2019.
+[video](https://youtu.be/SNHh2nyj20Q?t=865)
+
 
 * "What will the Event Horizon Telescope see?" _Columbia Astronomy Thursday Seminar._  
  New York, NY. November 2018.
  [slides](/assets/pdfs/columbia_pres_achael.pdf)
-
 
 * "Electron heating and particle acceleration in GRMHD simulations." _The Central Arcsecond: Towards Testing General Relativity in the Galactic Center._  
  Schloss Ringberg, Bavaria, Germany. November 2018.
