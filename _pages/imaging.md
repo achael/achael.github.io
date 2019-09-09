@@ -38,6 +38,9 @@ gallery3:
     title: "(Left) an image of the protoplanetary disk in HL Tau from Band 7, 0.87 mm ALMA observations using the traditional CLEAN algorithm. (Right) the image reconstructed from the same data with eht-imaging using an imaging algorithm robust to errors in amplitude and phase calibration (Chael+ 2018)."
 
 ---
+{% include gallery id="gallery0" caption="The first resolved images of a black hole taken by the EHT in 2017" %}{: .text-center}
+{: .align-right}
+
 {% include gallery id="gallery1" caption="The stations of the Event Horizon Telescope" %}{: .align-right}
 
 The [EHT](http://eventhorizontelescope.org/) is globe-spanning [VLBI](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry) array that observes the nearest supermassive black holes in 
