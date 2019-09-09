@@ -45,7 +45,9 @@ gallery3:
 
 The [EHT](http://eventhorizontelescope.org/) is globe-spanning [VLBI](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry) array that observes the nearest supermassive black holes in 
 <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A* </a> 
-and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017 and 2018 ([some pictures from the observations](https://eventhorizontelescope.org/galleries/2017-observations)) In April 2019, we published the results of our observations of M87; the first images of a supermassive black hole with resolution on event-horizon scales ([Read the papers](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)).
+and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017 and 2018 ([see pictures from the observations](https://eventhorizontelescope.org/galleries/2017-observations)).
+
+In April 2019, we published the results of our observations of M87; the first images of a supermassive black hole with resolution on event-horizon scales ([Read the papers](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)).
 
 By correlating the recorded electric field measured simultaneously at telescopes around the world, the EHT can effectively _synthesize_ the resolving power of an Earth-sized telescope with an angular resolution of about 10 _microarcseconds_ (1 / 360000000<sup>th</sup> of a degree!)
 
