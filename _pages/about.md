@@ -25,7 +25,7 @@ gallery:
     title: "at the Pantheon in 2018"
 ---
 
-{% include figure image_path="/assets/images/chael2.jpg" alt="Andrew Chael in 2019" %}{: .align-right}
+{% include figure image_path="/assets/images/me.jpg" alt="Andrew Chael in 2019" %}{: .align-right}
 
 I am a [NASA Hubble Fellowship Program](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program) (NHFP) [Einstein Fellow](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/meet-the-fellows) at the Princeton University [Center for Theoretical Science](http://pcts.princeton.edu/). I am a member of the [Event Horizon Telescope](http://eventhorizontelescope.org/) (EHT) collaboration.
 
@@ -44,6 +44,8 @@ I grew up in Albuquerque, New Mexico. I received a BA in Physics with a secondar
 -->
 
 I am a proud member of the Astronomy and Astrophysics [Outlist](https://astro-outlist.github.io/) of LGBTQIA+ members of the astronomical community. 
+
+{% include figure image_path="/assets/images/observatory.jpg" alt="Andrew Chael in 2019 (Image Credit: Michael Confer)" %}{: .align-center}
 
 {% include gallery caption="Some recent photos from my travels" %}
 
