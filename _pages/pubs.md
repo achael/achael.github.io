@@ -46,7 +46,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
 
 ### Other Selected Papers
 * R Narayan, **A Chael**, K Chatterjee, A Ricarte, B Curd. "Jets in magnetically arrested accretion flows: geometry, power and black hole spindown". 
-[_ArXiv](https://arxiv.org/pdf/2108.12380.pdf)
+[_ArXiv_](https://arxiv.org/pdf/2108.12380.pdf)
 
 * M Janssen et al. "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A." _Nature Astronomy_ 2021
 [_Nature Astronomy_](https://doi.org/10.1038/s41550-021-01417-w)
