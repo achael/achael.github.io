@@ -21,10 +21,14 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
 [Here](/assets/pdfs/achael_dissertation_final.pdf) is a link to my thesis, "Simulating and Imaging Supermassive Black Hole Accretion Flows". 
 
 ### EHT Collaboration Papers
-* **The Event Horizon  Telescope Collaboration** et al. "First M87 Event Horizon Telescope Results. I--VI". _ApJL_ 875, 2019.  
+
+* **The Event Horizon  Telescope Collaboration** et al. "First M87 Event Horizon Telescope Results. I--VIII". _ApJL_ 875, 2019,2021.  
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
 
 ### First Author Papers
+* **A Chael**, M Johnson, A Lupsasca. "Observing the inner shadow of a black hole: a direct view of the event horizon".  _ApJ_ 918, 2021.  
+ [_MNRAS_](https://doi.org/10.3847/1538-4357/ac09ee) | [arXiv](https://arxiv.org/pdf/2106.00683.pdf)
+
 * **A Chael**, R Narayan, M Johnson. "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87".  _MNRAS_ 486, 2019.  
  [_MNRAS_](https://doi.org/10.1093/mnras/stz988) | [arXiv](https://arxiv.org/abs/1810.01983)
 
@@ -41,6 +45,18 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
  [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [arXiv](https://arxiv.org/abs/1605.06156)
 
 ### Other Selected Papers
+* R Narayan, **A Chael**, K Chatterjee, A Ricarte, B Curd. "Jets in magnetically arrested accretion flows: geometry, power and black hole spindown". 
+[_ArXiv](https://arxiv.org/pdf/2108.12380.pdf)
+
+* M Janssen et al. "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A." _Nature Astronomy_ 2021
+[_Nature Astronomy_](https://doi.org/10.1038/s41550-021-01417-w)
+
+* M Wielgus et al. "Monitoring the morphology of M87* in 2009-2017 with the Event Horizon Telescope". _ApJ_ 901, 67, 2020. 
+[_ApJ_](https://doi.org/10.3847/1538-4357/abac0d)
+
+* M Johnson et al. "Universal interferometric signatures of a black hole's photon ring" _Science Advances_ 6,12, 2020. 
+[_Science Advances_](https://doi.org/doi:10.1126/sciadv.aaz1310)
+
 * S Issaoun, MD Johnson, L Blackburn, M Moscibrodzka, **A Chael**, H Falcke.
  "VLBI imaging of black holes via second moment regularization. A&A 629, 2019.  
 [_A&A_](https://doi.org/10.1051/0004-6361/201936156) | [arXiv](https://arxiv.org/abs/1908.01296)
