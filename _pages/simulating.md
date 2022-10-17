@@ -35,13 +35,13 @@ gallery3:
 
 ---
 
-See my [Youtube channel](https://www.youtube.com/channel/UCXWFOi3uMYoUkRpYaz-wz8Q) for some movies of my simulations!
+See my [Youtube channel](https://www.youtube.com/channel/UCySmvivwH2TekzO67quZ9fg/featured) for some movies of my simulations!
 
-{% include video id="SiP1Yiifwz0" provider="youtube" %}
+{% include video id="NF2dcg7XM0k" provider="youtube" %}
 
 In the local universe, including the center of our own galaxy (Sgr A* ), most supermassive black holes are surrounded by hot, thick, and dim accretion disks. Many of these black holes, like the one in the  M87, launch relativistic jets powered by the rotational energy of the black hole itself. To understand how plasma behaves in spacetime -- how it emits radiation, launches jets, and feeds the black hole -- one of our best tools is supercomputer simulations using the equations of General Relativistic Magnetohydrodynamics (GRMHD). 
  
-{% include video id="WEFifaAGsRE" provider="youtube" %}
+{% include video id="MSkemJnNL54" provider="youtube" %}
 
 Unfortunately, in the hot, weakly coupled plasmas around M87 and Sgr A* , protons and electrons are not in thermal equilibrium with each other. Since most simulations assume thermodynamic equilibrium  it is impossible to directly predict the radiation emitted from most simulations without making additional assumptions in post-processing. This makes predictions for the [images](/_pages/imaging) observed by the Event Horizon Telescope difficult.
 
@@ -60,7 +60,7 @@ In [Chael+ 2017](https://arxiv.org/abs/1704.05092), I made a major update to `KO
 parallel with the thermal fluid. This represents the first time that _spectral_ resolution of electron
 distributions is possible in grid-based accretion simulations. This method will open up new ground in understanding the nonthermal jet emission in M87 and nonthermal infrared and X-ray flares in Sgr A*.
 
-{% include video id="0GH-C4Rmex0" provider="youtube" %}
+{% include video id="i4E6mnnZvIk" provider="youtube" %}
 
 
 
