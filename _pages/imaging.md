@@ -57,15 +57,17 @@ Both because EHT measurements are sparse and because absolute phase calibration 
 {: .align-right}
 
 
-As a leading member of the EHT's Imaging Working Group, I develop new Bayesian imaging methods that push the EHT's imaging capabilities to higher fidelity and resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). 
+As a leading member of the EHT's Imaging Working Group, I develop new imaging methods that push the EHT's imaging capabilities to higher fidelity and resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). In [Chael+ 2022](https://arxiv.org/abs/2210.12226), I extended the regularized maximum likelihood imaging technique to recover spectral index maps from simulated EHT data and real VLBA and ALMA datasets. 
 
-My software library [`ehtim`](https://github.com/achael/eht-imaging) has become a standard tool across the collaboration for imaging and analyzing EHT data ([click here](/_pages/software) for more information). The techniques and software I've developed for the EHT have wide application across radio and optical interferomerty, and we are currently exploring their application on [LOFAR](http://www.lofar.org/) and [ALMA](http://www.almaobservatory.org/en/home/) datasets. 
+My software library [`ehtim`](https://github.com/achael/eht-imaging) has become a standard tool across the collaboration for imaging and analyzing EHT data ([click here](/_pages/software) for more information). `ehtim` has been essential for producing the first EHT images at micro-arcsecond resolution of M87 in [total intensity](https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85) and polarization(https://iopscience.iop.org/article/10.3847/2041-8213/abe71d), [Sgr A*](https://iopscience.iop.org/article/10.3847/2041-8213/ac6429), [Centaurus A](https://www.nature.com/articles/s41550-021-01417-w), [3C279](https://www.aanda.org/articles/aa/full_html/2020/08/aa37493-20/aa37493-20.html), and [J1924-2914](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40).
+
+#The techniques and software I've developed for the EHT have wide application across radio and optical interferomerty, and we are currently exploring their application on [LOFAR](http://www.lofar.org/) and [ALMA](http://www.almaobservatory.org/en/home/) datasets. 
 
 {% include gallery id="gallery3" caption="(Left) an [image](https://arxiv.org/pdf/1503.02649.pdf) of the protoplanetary disk in HL Tau from Band 7, 0.87 mm ALMA observations using the traditional CLEAN algorithm. (Right) the image reconstructed from the same data with `ehtim` using an imaging algorithm robust to errors in amplitude and phase calibration [(Chael+  2018)](https://arxiv.org/abs/1803.07088)."
  %}{: .text-center}
 {: .align-right}
 
-I work closely on developing imaging algorithms and applying them to EHT observations with [Katie Bouman](https://people.csail.mit.edu/klbouman/index.html), [Kazu Akiyama](http://kazuakiyama.github.io/pages/aboutme.html), and [Michael Johnson](http://www.scintillatingastronomy.com/).
+#I work closely on developing imaging algorithms and applying them to EHT observations with [Katie Bouman](https://people.csail.mit.edu/klbouman/index.html), [Kazu Akiyama](http://kazuakiyama.github.io/pages/aboutme.html), and [Michael Johnson](http://www.scintillatingastronomy.com/).
 
 
 
