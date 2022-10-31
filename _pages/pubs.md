@@ -22,7 +22,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
 
 ### EHT Collaboration Papers
 
-* **The Event Horizon  Telescope Collaboration** et al. "First Sagittarius A* Event Horizon Telescope Results. I--VI". _ApJL_ 875, 2019,2021.  
+* **The Event Horizon  Telescope Collaboration** et al. "First Sagittarius A* Event Horizon Telescope Results. I--VI". _ApJL_ 875, 2019, 2021.  
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results)
  
 * **The Event Horizon  Telescope Collaboration** et al. "First M87 Event Horizon Telescope Results. I--VIII". _ApJL_ 875, 2019,2021.  
