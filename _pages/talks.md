@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
 ---
 
-__Updates in progress....__
+__Updates are in progress! See my [cv](/_pages/cv) for an up-to-date list of talks.__
 
 ### Thesis Talk
 "Simulating and imaging supermassive black hole accretion flows.''  
