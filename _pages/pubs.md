@@ -29,6 +29,9 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
 
 ### First Author Papers
+* **A Chael**, S Issaound, D Pesce, M Johnson, A Ricarte, C Fromm, Y Mizuno. "Multi-frequency imaging for the next-generation Event Horizon Telescope". Submitted to _ApJ_. 
+[arXiv](https://arxiv.org/pdf/2106.00683.pdf)
+ 
 * **A Chael**, M Johnson, A Lupsasca. "Observing the inner shadow of a black hole: a direct view of the event horizon".  _ApJ_ 918, 2021.  
  [_MNRAS_](https://doi.org/10.3847/1538-4357/ac09ee) | [arXiv](https://arxiv.org/pdf/2106.00683.pdf)
 
@@ -48,6 +51,12 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/#/pub
  [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [arXiv](https://arxiv.org/abs/1605.06156)
 
 ### Other Selected Papers
+* S Issaoun et al. "Resolving the inner parsec of the blazar J1924-2914 with the Event Horizon Telescope." _ApJ_ 934, 2, 2022. 
+[_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40) | [arXiv](https://arxiv.org/abs/2208.01662)
+
+* A Levis, P srinivasan, **A Chael**, R Ng, KL Bouman. "Gravitationally lensed black hole emission tomography." _IEEE Proceedings of the CVPR_, 2022. 
+[_CVF_](https://openaccess.thecvf.com/content/CVPR2022/papers/Levis_Gravitationally_Lensed_Black_Hole_Emission_Tomography_CVPR_2022_paper.pdf) | [_ArXiv_](https://arxiv.org/abs/2204.03715)
+
 * R Narayan, **A Chael**, K Chatterjee, A Ricarte, B Curd. "Jets in magnetically arrested accretion flows: geometry, power and black hole spindown". 
 [_ArXiv_](https://arxiv.org/pdf/2108.12380.pdf)
 
