@@ -27,7 +27,7 @@ gallery:
 
 {% include figure image_path="/assets/images/andrew21.jpg" alt="Andrew Chael in 2021" %}{: .align-right}
 
-I am a fellow at the Princetion University [Gravity Initiative](https://gravity.princeton.edu/). From 2019-2022 I was a [NASA Hubble Fellowship Program](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program) (NHFP) [Einstein Fellow](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/meet-the-fellows) at the Princeton [Center for Theoretical Science](http://pcts.princeton.edu/). I am a member of the [Event Horizon Telescope](http://eventhorizontelescope.org/) (EHT) collaboration.
+I am a fellow at the Princeton University [Gravity Initiative](https://gravity.princeton.edu/). From 2019-2022 I was a [NASA Hubble Fellowship Program](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program) (NHFP) [Einstein Fellow](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/meet-the-fellows) at the Princeton [Center for Theoretical Science](http://pcts.princeton.edu/). I am a member of the [Event Horizon Telescope](http://eventhorizontelescope.org/) (EHT) collaboration.
 
 I study the extreme environments just outside the event horizons of supermassive black holes, particularly in the galactic center <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A*</a> and [M87](https://en.wikipedia.org/wiki/Messier_87). I use supercomputer [simulations](/_pages/simulating) to study the flow of plasma as it falls into the black hole and is launched outward in relativistic jets. I also develop new approaches for testing theoretical predictions with new methods of [imaging](/_pages/imaging) these black holes with the EHT.  
 
