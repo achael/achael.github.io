@@ -4,6 +4,8 @@ main:
     url: _pages/simulating
   - title: "EHT Imaging"
     url: _pages/imaging
+  - title: "CV"
+    url: _pages/cv
   - title: "Software"
     url: _pages/software
   - title: "Publications"
@@ -12,6 +14,5 @@ main:
     url: _pages/talks
   - title: "Media"
     url: _pages/media  
-  - title: "CV"
-    url: _pages/cv
+
 
