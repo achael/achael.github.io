@@ -137,7 +137,7 @@ header:
 
 * "Reconstructing an image of the black hole in M87 from EHT Data." _Black Hole Initiative Conference_.  
  Cambridge, MA. May 2019.  
- [slides](/assets/pdfs/2019/achael_bhi_conf_05_14_19.pdf)
+ [slides](/assets/pdfs/2019/achael_bhi_conf_05_21_19.pdf)
 
 * "Simulating and imaging supermassive black hole accretion flows." _Black Hole Initiative Colloquium_.  
  Cambridge, MA. May 2019.  
