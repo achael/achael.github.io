@@ -175,7 +175,7 @@ header:
 ### Other Talks
 * "EHT observations, theoretical models, and results" _Princeton Workshop on Black Hole Accretion Models_. 
  Princeton, NJ. February 2023.
- [slides](/assets/pdfs/PCTS_Feb2023_combined.pdf)
+ [slides](/assets/pdfs/2023/PCTS_Feb2023_combined.pdf)
 
 * "Polarization, energy extraction, and spin in EHT images." _EHT Summer Collaboration Meeting._ 
  Taichung, Taiwan. June 2023.
