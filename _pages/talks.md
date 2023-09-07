@@ -15,7 +15,7 @@ header:
 ---
 
 ### Thesis Talk
-"Simulating and imaging supermassive black hole accretion flows.''  
+* "Simulating and imaging supermassive black hole accretion flows.''  
  Cambridge, MA. April 30, 2019.  
  [video](https://www.youtube.com/watch?v=_kWLWihXQGs&feature=youtu.be) | [slides](/assets/pdfs/defense_pres_nohidden.pdf)
 
@@ -222,3 +222,5 @@ header:
 * "Imaging black hole magnetic fields with the Event Horizon Telescope." _M87 Workshop._  
  Taipei, Taiwan. May 2016.  
  [slides](http://events.asiaa.sinica.edu.tw/workshop/20160523/talk2view.php?i=dd5305796c2ce08d24eace2f149ef279)
+ 
+*
