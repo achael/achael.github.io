@@ -23,7 +23,7 @@ header:
 
 * [_Inverse_](https://www.inverse.com/science/new-images-of-black-hole-m87) (March 24, 2021).
 
-* [_New Scientist_](https://institutions.newscientist.com/article/2272226-new-picture-of-famous-black-hole-reveals-its-swirling-magnetic-field/) (March 24, 2021). 
+* [_New Scientist_](https://newscientist.com/article/2272226-new-picture-of-famous-black-hole-reveals-its-swirling-magnetic-field/) (March 24, 2021). 
 
 * [Carleton College _Voice_](https://www.carleton.edu/voice/stories/seeing-black/) (Winter 2020)
 
