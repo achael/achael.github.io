@@ -53,7 +53,7 @@ header:
 
 * "Horizon-scale images of black hole accretion and jet launching." _Duke University Physics Colloquium_. 
  Durham, NC. February 2023.
- [slides](/assets/pdfs/2023/achael_duke_02_22_23.pdf)
+ [slides](/assets/pdfs/2023/achael_duke_2_22_23.pdf)
 
 * "Horizon-scale images of black hole accretion and jet launching." _UC Berkeley Astronomy Colloquium_. 
  Berkeley, CA. February 2023.
