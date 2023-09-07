@@ -10,6 +10,8 @@ main:
     url: _pages/pubs
   - title: "Talks"
     url: _pages/talks
+  - title: "Media"
+    url: _pages/media  
   - title: "CV"
     url: _pages/cv
 

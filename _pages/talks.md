@@ -14,8 +14,6 @@ header:
   overlay_filter: "0.5"
 ---
 
-__Updates are in progress! See my [cv](/_pages/cv) for an up-to-date list of talks.__
-
 ### Thesis Talk
 "Simulating and imaging supermassive black hole accretion flows.''  
  Cambridge, MA. April 30, 2019.  
@@ -193,7 +191,7 @@ __Updates are in progress! See my [cv](/_pages/cv) for an up-to-date list of tal
  Virtual. July 2021.
  [slides](/assets/pdfs/2021/achael_marcelgrossman_07_08_21.pdf)
 
-* "Simulating and imaging black hole accretion flows." _AAS 235._ 
+* "Simulating and imaging black hole accretion flsows." _AAS 235._ 
  Honolulu, HI. January 2020.
  [slides](/assets/pdfs/2019/achael_jsi_11_13_19.pdf)
 
