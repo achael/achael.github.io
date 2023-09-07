@@ -57,7 +57,7 @@ header:
 
 * "Horizon-scale images of black hole accretion and jet launching." _UC Berkeley Astronomy Colloquium_. 
  Berkeley, CA. February 2023.
- [slides](/assets/pdfs/2023/achael_berkeley_02_16_23.pdf)
+ [slides](/assets/pdfs/2023/achael_berkeley_2_16_23.pdf)
 
 #### 2022
 * "Imaging supermassive black holes with the Event Horizon Telescope." _Bard College Physics Colloquium_. 
