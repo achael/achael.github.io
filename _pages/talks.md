@@ -98,7 +98,7 @@ header:
 
 * "Horizon-scale polarization and magnetic fields in M87* from the EHT" _Princeton-IAS Bahcall Lunch_. 
  Virtual. March 2021.
- [slides](/assets/pdfs/2021/achael_blunch_03_20_21.pdf)
+ [slides](/assets/pdfs/2021/achael_blunch_03_30_21.pdf)
 
 * "ngEHT insights from radiative simulations: jets and lensed horizons." _ngEHT Science Meeting_. 
  Virtual. February 2021.
