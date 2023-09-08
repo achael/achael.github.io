@@ -32,24 +32,24 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 ### First Author and Primary Collaboration Papers
 * **A Chael**, A Lupsasca, GN Wong, E Quataert.  
- "Black Hole Polarimetry I: A Signature of Electromagnetic Energy Extraction". Submitted to _ApJ_.
- [arXiv](https://arxiv.org/abs/2307.06372)
+ "Black Hole Polarimetry I: A Signature of Electromagnetic Energy Extraction". Submitted to _ApJ_.  
+  [arXiv](https://arxiv.org/abs/2307.06372)
  
 * **A Chael**, S Issaoun, D Pesce, M Johnson, A Ricarte, C Fromm, Y Mizuno.  
  "Multifrequency imaging for the next-generation Event Horizon Telescope". _ApJ_ 945, 2023. 
  [_ApJ_](https://doi.org/10.3847/1538-4357/acb7e4) | [arXiv](https://arxiv.org/abs/2210.12226)
 
 * The Event Horizon Telescope Collaboration et al. **(paper writing team)**.  
- "First Sagittarius A* Event Horizon Telescope Results III: imaging of the Galactic Center supermassive black hole". _ApJL_ 930, 2022.
- [_ApJL_](https://doi.org/%2010.3847/2041-8213/ac6429) 
+ "First Sagittarius A* Event Horizon Telescope Results III: imaging of the Galactic Center supermassive black hole". _ApJL_ 930, 2022.  
+  [_ApJL_](https://doi.org/%2010.3847/2041-8213/ac6429) 
 
 * **A Chael**, M Johnson, A Lupsasca.  
  "Observing the inner shadow of a black hole: a direct view of the event horizon".  _ApJ_ 918, 2021.  
  [_MNRAS_](https://doi.org/10.3847/1538-4357/ac09ee) | [arXiv](https://arxiv.org/pdf/2106.00683.pdf)
 
 * The Event Horizon Telescope Collaboration et al. **(paper coordinator)**.  
- "First Event Horizon Telescope Results VIII: magnetic field structure near the event horizon". _ApJL_ 910, 2021.
- [_ApJL_](https://doi.org/10.3847/2041-8213/abe4de) 
+ "First Event Horizon Telescope Results VIII: magnetic field structure near the event horizon". _ApJL_ 910, 2021.  
+  [_ApJL_](https://doi.org/10.3847/2041-8213/abe4de) 
 
 * The Event Horizon Telescope Collaboration et al. **(paper writing team)**.  
  "First Event Horizon Telescope Results VII: polarization of the ring". _ApJL_ 910, 2021.  
@@ -81,7 +81,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 ### Other Selected Papers
 * DCM Palumbo, GN Wong, **A Chael**, MD Johnson.  
- "Demonstrating photon ring existence with single-baseline polarimetry". _ApJL 952, 2023.  
+ "Demonstrating photon ring existence with single-baseline polarimetry". _ApJL_ 952, 2023.  
  [_ApJL_](https://doi.org/10.3847/2041-8213/ace630) | [arXiV](https://arxiv.org/abs/2307.05293)
 
 * MD Johnson et al.  

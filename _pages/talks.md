@@ -192,7 +192,7 @@ header:
  [slides](/assets/pdfs/2021/achael_marcelgrossman_07_08_21.pdf)
 
 * "Simulating and imaging black hole accretion flsows."  
- _AAS 235._ Honolulu, HI. January 2020.
+ _AAS 235._ Honolulu, HI. January 2020.  
  [slides](/assets/pdfs/2019/achael_jsi_11_13_19.pdf)
 
 * "The black hole and jet in M87: connecting simulations and EHT Images."  
