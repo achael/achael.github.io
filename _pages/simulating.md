@@ -69,10 +69,6 @@ In [Chael+ 2018a](https://arxiv.org/abs/1804.06416) I tested two physical mechan
 
 In 2021, I was a coordinator of the [paper](https://iopscience.iop.org/article/10.3847/2041-8213/abe4de) interpreting the EHT's first polarimetric images of M87*. We found that EHT polarimetric observations also strongly favor a magnetically arrested accretion flow. 
 
-
-[//]: # {% include gallery id="gallery3" caption="230 GHz images from my MAD simulations of M87 using damped turbulence (left) and magnetic reconnection (right) to heat electrons" %}[//]: # {: .text-center}
-[//]: # {: .align-right}
-
 {% include gallery id="gallery4" caption="230 GHz images from my MAD simulations of M87 using  magnetic reconnection (center) with the position of the photon ring and black hole inner shadow indicated. The left image shows a simulated EHT reconstruction of this simulation snapshot, and the right image shows the snapshot in a gamma color scale, where faint features are more visible" %}{: .text-center}
 {: .align-right}
 
