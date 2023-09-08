@@ -27,3 +27,5 @@ I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regulari
 ### `KORAL`
 
 I maintain the two-temperature, radiative GRMHD C code [`KORAL`](https://github.com/achael/koral_lite) originally written by Aleksander Sadowski. I use `KORAL` to investigate the effects of adding new physics [like the spectral evolution of nonthermal electrons](https://arxiv.org/abs/1704.05092) to standard GRMHD simulations of the EHT's target black hole sources. I am currently working on porting KORAL to a new, GPU-capable code. 
+
+*
