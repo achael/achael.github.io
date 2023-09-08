@@ -18,27 +18,6 @@ header:
 * "Simulating and imaging supermassive black hole accretion flows.''  
  Cambridge, MA. April 30, 2019.  
  [video](https://www.youtube.com/watch?v=_kWLWihXQGs&feature=youtu.be) | [slides](/assets/pdfs/defense_pres_nohidden.pdf)
-
-### Public Lectures
-* "Photographing a black hole with the Event Horizon Telescope"  
- _NMSU College of Engineering Distinguished Lecture Series_. Las Cruces, NM. February 2020.  
- [slides](/assets/pdfs/2020/achael_nmsu_02_19_20.pdf)
-
-* "Photographing a black hole with the Event Horizon Telescope."  
- _Carleton College Special Lecture._ Northfield, MN. May 2019.  
- [slides](/assets/pdfs/2019/achael_carleton_05_14_19.pdf)
-
-* "In the shadow of the black hole."  
- _GitHub Satellite 2019._  Berlin, Germany. May 2019.  
- [video](https://www.youtube.com/watch?v=_RQBNCOU0RM)
-
-* "Photographing black holes: first results from the Event Horizon Telescope."  
- _Harvard University, Special Colloquium._  Cambridge, MA. April 2019.  
- [video](https://www.youtube.com/watch?v=q6ZnAdNQNVo)
-
-* "Imaging a black hole with the Event Horizon Telescope."
-  _907th Amateur Telescope Makers of Boston Meeting._ Cambridge, MA. March 2018.  
- [slides](/assets/pdfs/2018/achael_atmob_04_08_18.pdf)
  
 ### Invited Talks
 
@@ -105,11 +84,10 @@ header:
  [slides](/assets/pdfs/2021/achael_ngeht_02_25_21.pdf)
 
 #### 2020
-
 * "Photographing a black hole with the Event Horizon Telescope."  
  _SciPy 2020 Keynote_. Virtual. July 2020.  
- [slides](/assets/pdfs/2020/achael_scipy_07_10_20.pdf)
-
+ [video](https://www.youtube.com/watch?v=JhFwywnI0MQ) | [slides](/assets/pdfs/2020/achael_scipy_07_10_20.pdf)
+ 
 * "Towards understanding black hole accretion and jet launching."  
  _APS April Meeting_. Virtual. April 2020.  
  [slides](/assets/pdfs/2020/achael_aps_04_18_20.pdf)
@@ -117,6 +95,11 @@ header:
 * "VLBI imaging techniques."  
  _University of Arizona BH PIRE Webinar_. Virtual. March 2020.  
  [slides](/assets/pdfs/2020/achael_pire_03_18_20.pdf)
+
+* "Photographing a black hole with the Event Horizon Telescope"  
+ _NMSU College of Engineering Distinguished Lecture Series_. Las Cruces, NM. February 2020.  
+ [slides](/assets/pdfs/2020/achael_nmsu_02_19_20.pdf)
+
 
 #### 2019
 * "The black hole and jet in M87: connecting simulations and VLBI Images."  
@@ -135,6 +118,14 @@ header:
  _University of Waterloo Astronomy Seminar_. Waterloo, ON. October 2019.  
  [slides](/assets/pdfs/2019/achael_waterloo_10_02_19.pdf)
 
+* "Photographing a black hole with the Event Horizon Telescope."  
+ _Carleton College Special Lecture._ Northfield, MN. May 2019.  
+ [slides](/assets/pdfs/2019/achael_carleton_05_14_19.pdf)
+
+* "In the shadow of the black hole."  
+ _GitHub Satellite 2019._  Berlin, Germany. May 2019.  
+ [video](https://www.youtube.com/watch?v=_RQBNCOU0RM)
+
 * "Reconstructing an image of the black hole in M87 from EHT Data."  
  _Black Hole Initiative Conference_. Cambridge, MA. May 2019.  
  [slides](/assets/pdfs/2019/achael_bhi_conf_05_21_19.pdf)
@@ -147,6 +138,11 @@ header:
  _ITC lunch (Keto Prize Talk)_.  Cambridge, MA. May 2019.   
  [slides](/assets/pdfs/2019/achael_itclunch_05_02_19.pdf) | [video](https://youtu.be/SNHh2nyj20Q?t=865)
 
+
+* "Photographing black holes: first results from the Event Horizon Telescope."  
+ _Harvard University, Special Colloquium._  Cambridge, MA. April 2019.  
+ [video](https://www.youtube.com/watch?v=q6ZnAdNQNVo)
+ 
 #### 2018
 
 * "What will the Event Horizon Telescope see?"  
@@ -161,7 +157,10 @@ header:
  _Northwestern CIERA Theory Group Meeting._  Evanston, IL. October 2018.  
  [slides](/assets/pdfs/2018/achael_ciera_10_18_18.pdf)
 
-
+* "Imaging a black hole with the Event Horizon Telescope."   
+ _907th Amateur Telescope Makers of Boston Meeting._ Cambridge, MA. March 2018.  
+ [slides](/assets/pdfs/2018/achael_atmob_04_08_18.pdf)
+ 
 #### 2016
 * "Imaging techniques for the Event Horizon Telescope."  
  _3rd Event Horizon Telescope Collaboration  Meeting._ Cambridge, MA. December 2016.   
@@ -172,7 +171,7 @@ header:
  _2nd Event Horizon Telescope Collaboration Meeting._  Waterloo, ON. November 2014.   
  [abstract](https://www.perimeterinstitute.ca/conferences/eht-2014)
 
-### Other Talks
+### Other Contributed Talks
 * "EHT observations, theoretical models, and results"  
  _Princeton Workshop on Black Hole Accretion Models_. Princeton, NJ. February 2023.  
  [slides](/assets/pdfs/2023/PCTS_Feb2023_combined.pdf)
