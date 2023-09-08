@@ -47,7 +47,7 @@ The [EHT](http://eventhorizontelescope.org/) is globe-spanning [VLBI](https://en
 <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A* </a> 
 and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017 and 2018 ([see pictures from the observations](https://eventhorizontelescope.org/galleries/2017-observations)).
 
-In April 2019, we published the results of our observations of M87; the first images of a supermassive black hole with resolution on event-horizon scales ([read the papers](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)).
+In April 2019, we published the results of our observations of M87; the first images of a supermassive black hole with resolution on event-horizon scales ([read the papers](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)). After devoting significant effort to overcoming the rapid variability in the Galactic Center observations, we finally published corresponding [images of Sgr A*](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results) in 2022. 
 
 By correlating the recorded electric field measured simultaneously at telescopes around the world, the EHT can effectively _synthesize_ the resolving power of an Earth-sized telescope with an angular resolution of about 10 _microarcseconds_ (1 / 360000000<sup>th</sup> of a degree!)
 
@@ -56,18 +56,14 @@ Both because EHT measurements are sparse and because absolute phase calibration 
 {% include gallery id="gallery2" caption="(Left) an image of M87 at 230 GHz from one of my simulations. (Right) the image reconstructed with `ehtim` from realistic simulated data similar to the EHT's observations in 2017. The circle at the lower right represents the EHT's effective resolution" %}{: .text-center}
 {: .align-right}
 
-
-As a leading member of the EHT's Imaging Working Group, I develop new imaging methods that push the EHT's imaging capabilities to higher fidelity and resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). In [Chael+ 2022](https://arxiv.org/abs/2210.12226), I extended the regularized maximum likelihood imaging technique to recover spectral index maps from simulated EHT data and real VLBA and ALMA datasets. 
+As a leading member of the EHT's imaging team, I develop new imaging methods that push the EHT's imaging capabilities to higher fidelity and resolution. I have developed algorithms that bypass traditional self-calibration both for total intensity [(Chael+ 2018)](https://arxiv.org/abs/1803.07088) and polarization [(Chael+ 2016)](https://arxiv.org/abs/1605.06156). In [Chael+ 2022](https://iopscience.iop.org/article/10.3847/1538-4357/acb7e4), I extended the regularized maximum likelihood imaging technique to recover multi-frequency imgages and spectral index maps from simulated EHT data and real VLBA and ALMA datasets. 
 
 My software library [`ehtim`](https://github.com/achael/eht-imaging) has become a standard tool across the collaboration for imaging and analyzing EHT data ([click here](/_pages/software) for more information). `ehtim` has been essential for producing the first EHT images at micro-arcsecond resolution of M87 in [total intensity](https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85) and [polarization](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d), [Sgr A*](https://iopscience.iop.org/article/10.3847/2041-8213/ac6429),  [Centaurus A](https://www.nature.com/articles/s41550-021-01417-w),  [3C279](https://www.aanda.org/articles/aa/full_html/2020/08/aa37493-20/aa37493-20.html),  and [J1924-2914](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40).
-
-#The techniques and software I've developed for the EHT have wide application across radio and optical interferomerty, and we are currently exploring their application on [LOFAR](http://www.lofar.org/) and [ALMA](http://www.almaobservatory.org/en/home/) datasets. 
 
 {% include gallery id="gallery3" caption="(Left) an [image](https://arxiv.org/pdf/1503.02649.pdf) of the protoplanetary disk in HL Tau from Band 7, 0.87 mm ALMA observations using the traditional CLEAN algorithm. (Right) the image reconstructed from the same data with `ehtim` using an imaging algorithm robust to errors in amplitude and phase calibration [(Chael+  2018)](https://arxiv.org/abs/1803.07088)."
  %}{: .text-center}
 {: .align-right}
 
-#I work closely on developing imaging algorithms and applying them to EHT observations with [Katie Bouman](https://people.csail.mit.edu/klbouman/index.html), [Kazu Akiyama](http://kazuakiyama.github.io/pages/aboutme.html), and [Michael Johnson](http://www.scintillatingastronomy.com/).
 
 
 
