@@ -14,12 +14,12 @@ header:
   overlay_filter: "0.5"
 
 gallery:
-  - url: /assets/images/parkcity.jpg
-    image_path: /assets/images/parkcity.jpg
-  - url: /assets/images/jiufen.jpg
-    image_path: /assets/images/jiufen.jpg
-  - url: /assets/images/maine.jpg
-    image_path: /assets/images/maine.jpg
+  - url: /assets/images/parkcity2.jpg
+    image_path: /assets/images/parkcity2.jpg
+  - url: /assets/images/maine2.jpg
+    image_path: /assets/images/maine2.jpg
+  - url: /assets/images/jiufen2.jpg
+    image_path: /assets/images/jiufen2.jpg
 ---
 
 {% include figure image_path="/assets/images/andrew21.jpg" alt="Andrew Chael in 2021" %}{: .align-right}
