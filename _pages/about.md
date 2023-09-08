@@ -18,8 +18,8 @@ gallery:
     image_path: /assets/images/parkcity.jpg
   - url: /assets/images/jiufen.jpg
     image_path: /assets/images/jiufen.jpg
-  - url: /assets/images/seoul.jpg
-    image_path: /assets/images/seoul.jpg
+  - url: /assets/images/maine.jpg
+    image_path: /assets/images/maine.jpg
 ---
 
 {% include figure image_path="/assets/images/andrew21.jpg" alt="Andrew Chael in 2021" %}{: .align-right}
