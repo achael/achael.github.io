@@ -92,9 +92,9 @@ header:
  _PCTS Seminar_. Virtual. April 2021.  
  [slides](/assets/pdfs/2021/achael_pcts_04_08_21.pdf)
 
-* "Magnetic fields at a supermassive black hole's event horizon." _CU Boulder Astronomy Colloquium_. 
- Virtual. April 2021.
- [slides](/assets/pdfs/2021/achael_boulder_04_05_21.pdf)
+* "Magnetic fields at a supermassive black hole's event horizon."  
+ _CU Boulder Astronomy Colloquium_. Virtual. April 2021.  
+  [slides](/assets/pdfs/2021/achael_boulder_04_05_21.pdf)
 
 * "Horizon-scale polarization and magnetic fields in M87* from the EHT."  
  _Princeton-IAS Bahcall Lunch_. Virtual. March 2021.  
@@ -173,54 +173,54 @@ header:
  [abstract](https://www.perimeterinstitute.ca/conferences/eht-2014)
 
 ### Other Talks
-* "EHT observations, theoretical models, and results" _Princeton Workshop on Black Hole Accretion Models_. 
- Princeton, NJ. February 2023.
+* "EHT observations, theoretical models, and results"  
+ _Princeton Workshop on Black Hole Accretion Models_. Princeton, NJ. February 2023.  
  [slides](/assets/pdfs/2023/PCTS_Feb2023_combined.pdf)
 
-* "Polarization, energy extraction, and spin in EHT images." _EHT Summer Collaboration Meeting._ 
- Taichung, Taiwan. June 2023.
+* "Polarization, energy extraction, and spin in EHT images."  
+ _EHT Summer Collaboration Meeting._ Taichung, Taiwan. June 2023.
 
-* "Hybrid GRMHD and force-free simulations." _EHT Summer Collaboration Meeting._ 
- Granada, Spain. June 2022
+* "Hybrid GRMHD and force-free simulations."  
+ _EHT Summer Collaboration Meeting._ Granada, Spain. June 2022
 
-* "The inner shadow of a supermassive black hole." _AAS 240._ 
- Pasadena, CA. June 2022.
+* "The inner shadow of a supermassive black hole."  
+ _AAS 240._ Pasadena, CA. June 2022.  
  [slides](/assets/pdfs/2022/achael_aas_06_16_22.pdf)
  
-* "The inner shadow of the black hole in M87." _16th Marcel Grossman Meeting._ 
- Virtual. July 2021.
+* "The inner shadow of the black hole in M87."  
+ _16th Marcel Grossman Meeting._ Virtual. July 2021.  
  [slides](/assets/pdfs/2021/achael_marcelgrossman_07_08_21.pdf)
 
-* "Simulating and imaging black hole accretion flsows." _AAS 235._ 
- Honolulu, HI. January 2020.
+* "Simulating and imaging black hole accretion flsows."  
+ _AAS 235._ Honolulu, HI. January 2020.
  [slides](/assets/pdfs/2019/achael_jsi_11_13_19.pdf)
 
-* "The black hole and jet in M87: connecting simulations and EHT Images." _JSI Workshop 2019._ 
- Annapolis, MD. November 2019.
- [slides](/assets/pdfs/2021/achael_marcelgrossman_07_08_21.pdf)
+* "The black hole and jet in M87: connecting simulations and EHT Images."  
+ _JSI Workshop 2019._ Annapolis, MD. November 2019.  
+ [slides](/assets/pdfs/2019/achael_jsi_11_13_19.pdf)
 
-* "Electron heating physics in images and variability of Sgr A*." _15th Marcel Grossman Meeting._  
- Rome, Italy. July 2018.  
+* "Electron heating physics in images and variability of Sgr A*."  
+ _15th Marcel Grossman Meeting._  Rome, Italy. July 2018.  
  [slides](/assets/pdfs/2018/achael_marcelgrossman_07_02_18.pdf)
  
-* "The role of electron heating physics in images and variability of Sgr A*." _28th New England Regional Quasar and AGN Meeting._  
- New Haven, CT. May 2018.  
+* "The role of electron heating physics in images and variability of Sgr A*."  
+ _28th New England Regional Quasar and AGN Meeting._  New Haven, CT. May 2018.  
  [slides](/assets/pdfs/2018/achael_nerquam_05_23_18.pdf)
  
-* "Evolving thermal and nonthermal electron distributions in simulations of Sagittarius A*." _AAS 231._  
- Washington, DC. January 2018.  
+* "Evolving thermal and nonthermal electron distributions in simulations of Sagittarius A*."  
+ _AAS 231._  Washington, DC. January 2018.  
  [slides](/assets/pdfs/2018/achael_aas_01_11_18.pdf)
 
-* "Evolving thermal and nonthermal electron distributions in accretion simulations." _13th School of Modern Astrophysics._  
- Moscow, Russia. July 2017.  
+* "Evolving thermal and nonthermal electron distributions in accretion simulations."  
+ _13th School of Modern Astrophysics._  Moscow, Russia. July 2017.  
  [slides](/assets/pdfs/2017/achael_soma_07_10_17.pdf)
 
-* "Evolving thermal and nonthermal electron distributions in accretion simulations." _When Brandeis met Jansky: Astrophysics and Beyond._  
- Waltham, MA. May 2017.  
+* "Evolving thermal and nonthermal electron distributions in accretion simulations."  
+ _When Brandeis met Jansky: Astrophysics and Beyond._  Waltham, MA. May 2017.  
  [abstract](http://www.slac.stanford.edu/~teddy/Brandeis/abstracts.html) 
 
-* "Imaging black hole magnetic fields with the Event Horizon Telescope." _M87 Workshop._  
- Taipei, Taiwan. May 2016.  
+* "Imaging black hole magnetic fields with the Event Horizon Telescope."  
+ _M87 Workshop._  Taipei, Taiwan. May 2016.  
  [slides](http://events.asiaa.sinica.edu.tw/workshop/20160523/talk2view.php?i=dd5305796c2ce08d24eace2f149ef279)
  
 *
