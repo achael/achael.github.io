@@ -4,7 +4,7 @@ classes:
     - wide
     - landing
     - dark-theme
-title: Selected Talks
+title: Talks
 author_profile: true
 
 header:
