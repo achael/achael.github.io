@@ -14,15 +14,12 @@ header:
   overlay_filter: "0.5"
 
 gallery:
-  - url: /assets/images/hiking.jpg
-    image_path: /assets/images/hiking.jpg
-    title: "hiking in the Redwoods in 2016"
-  - url: /assets/images/rs.jpg
-    image_path: /assets/images/rs.jpg
-    title: "in Red Square in 2017"
-  - url: /assets/images/pantheon.jpg
-    image_path: /assets/images/pantheon.jpg
-    title: "at the Pantheon in 2018"
+  - url: /assets/images/parkcity.jpg
+    image_path: /assets/images/parkcity.jpg
+  - url: /assets/images/jiufen.jpg
+    image_path: /assets/images/jiufen.jpg
+  - url: /assets/images/seoul.jpg
+    image_path: /assets/images/seoul.jpg
 ---
 
 {% include figure image_path="/assets/images/andrew21.jpg" alt="Andrew Chael in 2021" %}{: .align-right}
