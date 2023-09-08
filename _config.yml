@@ -99,8 +99,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Chael"
-  avatar            : /assets/images/bh_small.png
+  #name             : "Andrew Chael"
+  #avatar            : /assets/images/bh_small.png
   bio              : "Astrophysicist simulating and imaging Black Holes with the Event Horizon Telescope. Black holes, accretion disks & jets, MHD simulations, computational imaging, and other topics. 
                       <br /> <br /> 
                       achael@princeton.edu
