@@ -46,3 +46,4 @@ I am a proud member of the Astronomy and Astrophysics [Outlist](https://astro-ou
 
 {% include gallery caption="Some recent photos from my travels" %}
 
+<br/><br/>
