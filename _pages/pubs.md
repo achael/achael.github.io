@@ -31,8 +31,9 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
 
 ### First Author and Primary Collaboration Papers
+
 * **A Chael**, A Lupsasca, GN Wong, E Quataert.  
- "Black Hole Polarimetry I: A Signature of Electromagnetic Energy Extraction". Submitted to _ApJ_.  
+ "Black Hole Polarimetry I: A Signature of Electromagnetic Energy Extraction". Accepted to _ApJ_.  
   [arXiv](https://arxiv.org/abs/2307.06372)
  
 * **A Chael**, S Issaoun, D Pesce, M Johnson, A Ricarte, C Fromm, Y Mizuno.  
