@@ -27,15 +27,19 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results)
  
 * **The Event Horizon  Telescope Collaboration** et al.  
- "First M87 Event Horizon Telescope Results. I--VIII". _ApJL_ 875, 2019,2021.  
+ "First M87 Event Horizon Telescope Results. I--IX". _ApJL_ 875, 2019,2021.  
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
 
 ### First Author and Primary Collaboration Papers
 
 * **A Chael**, A Lupsasca, GN Wong, E Quataert.  
- "Black Hole Polarimetry I: A Signature of Electromagnetic Energy Extraction". Accepted to _ApJ_.  
-  [arXiv](https://arxiv.org/abs/2307.06372)
- 
+ "Black hole polarimetry I: a signature of electromagnetic energy extraction". _ApJ_ 958, 2023.  
+  [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/acf92d) | [arXiv](https://arxiv.org/abs/2307.06372)
+
+* The Event Horizon Telescope Collaboration et al. **(paper coordinator)**.  
+ "First Event Horizon Telescope Results IX: detection of near-horizon circular polarization". _ApJL_ 957, 2023.  
+  [_ApJL_](https://iopscience.iop.org/article/10.3847/2041-8213/acff70) 
+  
 * **A Chael**, S Issaoun, D Pesce, M Johnson, A Ricarte, C Fromm, Y Mizuno.  
  "Multifrequency imaging for the next-generation Event Horizon Telescope". _ApJ_ 945, 2023. 
  [_ApJ_](https://doi.org/10.3847/1538-4357/acb7e4) | [arXiv](https://arxiv.org/abs/2210.12226)
