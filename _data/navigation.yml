@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Black Hole Theory and Simulation"
+  - title: "Theory and Simulation"
     url: _pages/simulating
-  - title: "Black Hole Imaging"
+  - title: "Imaging"
     url: _pages/imaging
   - title: "CV"
     url: _pages/cv
