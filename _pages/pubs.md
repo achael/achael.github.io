@@ -23,7 +23,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 ### EHT Collaboration Papers
 
 * **The Event Horizon  Telescope Collaboration** et al.  
- "First Sagittarius A* Event Horizon Telescope Results. I--VI". _ApJL_ 875, 2019, 2021.  
+ "First Sagittarius A* Event Horizon Telescope Results. I--VIII". _ApJL_ 964, 2022,2023.  
  [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results)
  
 * **The Event Horizon  Telescope Collaboration** et al.  
@@ -32,6 +32,10 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 ### First Author and Primary Collaboration Papers
 
+* **A Chael**.  
+ "Hybrid GRMHD and force-free simulations of black hole accretion". _MNRAS_ 532, 2024.  
+  [_MNRAS_](https://doi.org/10.1093/mnras/stae1692) | [arXiv](https://arxiv.org/abs/2404.01471)
+  
 * **A Chael**, A Lupsasca, GN Wong, E Quataert.  
  "Black hole polarimetry I: a signature of electromagnetic energy extraction". _ApJ_ 958, 2023.  
   [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/acf92d) | [arXiv](https://arxiv.org/abs/2307.06372)
@@ -85,6 +89,18 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [arXiv](https://arxiv.org/abs/1605.06156)
 
 ### Other Selected Papers
+* MD Johnson et al.  
+ "The Black Hole Explorer: motivation and vision." _Proc. SPIE Astron._ 2024.  
+ [_SPIE_](https://doi.org/10.1117/12.3019835) | [_ArXiv_](https://arxiv.org/abs/2406.12917)
+ 
+* A Levis, P Srinivasan, **A Chael**, R Ng, KL Bouman.  
+ "Orbital polarimetric tomography of a flare near the Sagittarius A* supermassive black hole." _Nat. Astron._ 8, 2024.  
+ [_Nature Astronomy_](https://doi.org/10.1038/s41550-024-02238-3) | [_ArXiv_](https://arxiv.org/abs/2310.07687)
+ 
+* A Fuentes et al.  
+ "Filamentary structures as the origin of blazar jet radio variability". _Nat. Astron._ 7, 2024.  
+ [_Nature Astronomy_](https://doi.org/10.1038/s41550-023-02105-7) | [arXiV](https://arxiv.org/abs/2311.01861)
+ 
 * DCM Palumbo, GN Wong, **A Chael**, MD Johnson.  
  "Demonstrating photon ring existence with single-baseline polarimetry". _ApJL_ 952, 2023.  
  [_ApJL_](https://doi.org/10.3847/2041-8213/ace630) | [arXiV](https://arxiv.org/abs/2307.05293)
