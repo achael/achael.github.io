@@ -4,7 +4,7 @@ classes:
     - wide
     - landing
     - dark-theme
-title: Black Hole Accretion Simulations
+title: Black Hole Theory and Simulations
 author_profile: true
 
 header:
