@@ -13,6 +13,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
+* [_The Postdoc Path_ Podcast](https://podcasts.apple.com/us/podcast/ppp-s3-e1-andrew-chael/id1647669173?i=1000669306858) (September 12, 2024)
+
+* [APS _Physics Magazine_](https://physics.aps.org/articles/v17/43) (March 15, 2024)
+
+* [_New Scientist_](https://www.newscientist.com/article/2404079-strange-way-black-holes-lose-energy-could-help-solve-cosmic-puzzle/) (November 24, 2023)
+
 * [APS _Physics Magazine_](https://physics.aps.org/articles/v15/22) (February 11, 2022)
 
 * [_Black Holes: The Edge of All we Know_ Documentary Film](https://www.blackholefilm.com) (2021).
