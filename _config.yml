@@ -119,7 +119,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thisgreyspirit"
-
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.ca/citations?user=8qN7SyEAAAAJ&hl=en"
 
 #footer:
 #  links:
