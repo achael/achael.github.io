@@ -14,14 +14,47 @@ header:
   overlay_filter: "0.5"
 ---
 
-### Thesis Talk
-* "Simulating and imaging supermassive black hole accretion flows.''  
- Cambridge, MA. April 30, 2019.  
- [video](https://www.youtube.com/watch?v=_kWLWihXQGs&feature=youtu.be) | [slides](/assets/pdfs/defense_pres_nohidden.pdf)
- 
 ### Invited Talks
+#### 2024
 
+* The Black Hole Explorer
+ _Princeton-IAS Bahcall Lunch_. Princeton, NJ. October 2024.
+ [slides](/assets/pdfs/2024/achael_blunch_10_1_24.pdf)
+ 
+* "Simulating and Imaging Black Holes"
+ _The Event Horizon and Beyond: 50 Years of Narayan_. Cambridge, MA. June 2024.
+ [slides](/assets/pdfs/2024/achael_narayan50_6_13_24.pdf)
+ 
+* Polarized Signatures of Jet Launching on Horizon Scales"
+ _EHT Collaboration Summer Meeting_. Mexico City, MX. May 2024.
+ [slides](/assets/pdfs/2024/achael_ehtmtg_5_24_24.pdf)
+ 
+* Polarization Signatures of Jet Launching on Horizon Scales" 
+ _AAS HEAD 21 Meeting_. Horseshoe Bay, TX. April 2024.
+ [slides](/assets/pdfs/2024/achael_head_4_11_24.pdf)
+ 
+* Black Hole Jet Launching Up Close"
+ _Harvard BHI Colloquium_. Cambridge, MA. March 2024.
+ [video](https://www.youtube.com/watch?v=VKcboaM3c2Y&ab_channel=BlackHoleInitiative) | [slides](/assets/pdfs/2024/achael_bhi_3_18_24.pdf)
+ 
+* "New Physics from Polarized Black Hole Images"
+ _National Taiwan University Astronomy Seminar_. Virtual. January 2024.
+ [slides](/assets/pdfs/2024/achael_ntu_1_18_24.pdf)
+ 
 #### 2023
+
+* "Black Holes in Polarized Light"
+ _Radboud University Astronomy Colloquium_. Nijmegen, Netherlands. December 2023.
+ [slides](/assets/pdfs/2023/achael_radboud_12_11_23.pdf)
+
+* "Black holes in polarized light"
+ _Vanderbilt University, VandyGRAF Seminar_. Nashville, TN. December 2023. 
+ [slides](/assets/pdfs/2023/achael_vanderbilt_12_1_23.pdf)
+
+* "M87* in polarized light."
+ _Simons Collaboration on Extreme Electrodynamics of Compact Sources Meeting_. Virtual. November 2023.
+ [slides](/assets/pdfs/2023/achael_scees_11_15_23.pdf)
+
 * "Polarization spirals, energy extraction, and black hole spin."  
  _Princeton-IAS Bahcall Lunch_. Princeton, NJ. May 2023.  
  [slides](/assets/pdfs/2023/achael_blunch_05_02_23.pdf)
@@ -138,7 +171,10 @@ header:
  _ITC lunch (Keto Prize Talk)_.  Cambridge, MA. May 2019.   
  [slides](/assets/pdfs/2019/achael_itclunch_05_02_19.pdf) | [video](https://youtu.be/SNHh2nyj20Q?t=865)
 
-
+* "Simulating and imaging supermassive black hole accretion flows.''  
+ _Thesis Talk_. Cambridge, MA. April 30, 2019.  
+ [video](https://www.youtube.com/watch?v=_kWLWihXQGs&feature=youtu.be) | [slides](/assets/pdfs/defense_pres_nohidden.pdf)
+ 
 * "Photographing black holes: first results from the Event Horizon Telescope."  
  _Harvard University, Special Colloquium._  Cambridge, MA. April 2019.  
  [video](https://www.youtube.com/watch?v=q6ZnAdNQNVo)
@@ -171,6 +207,7 @@ header:
  _2nd Event Horizon Telescope Collaboration Meeting._  Waterloo, ON. November 2014.   
  [abstract](https://www.perimeterinstitute.ca/conferences/eht-2014)
 
+<!---
 ### Other Contributed Talks
 * "EHT observations, theoretical models, and results"  
  _Princeton Workshop on Black Hole Accretion Models_. Princeton, NJ. February 2023.  
@@ -221,5 +258,6 @@ header:
 * "Imaging black hole magnetic fields with the Event Horizon Telescope."  
  _M87 Workshop._  Taipei, Taiwan. May 2016.  
  [slides](http://events.asiaa.sinica.edu.tw/workshop/20160523/talk2view.php?i=dd5305796c2ce08d24eace2f149ef279)
+ -->
  
 <br/><br/>
