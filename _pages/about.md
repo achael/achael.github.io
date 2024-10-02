@@ -16,8 +16,8 @@ header:
 gallery:
   - url: /assets/images/parkcity2.jpg
     image_path: /assets/images/parkcity2.jpg
-  - url: /assets/images/yokohama.jpg
-    image_path: /assets/images/yokohama.jpg
+  - url: /assets/images/yokohama2.jpg
+    image_path: /assets/images/yokohama2.jpg
   - url: /assets/images/jiufen2.jpg
     image_path: /assets/images/jiufen2.jpg
 ---
