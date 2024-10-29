@@ -60,7 +60,7 @@ In the hot, weakly coupled plasmas around the black holes M87* and Sgr A* , prot
 {% include gallery id="gallery1" caption="Images of Sgr A* from my simulations [(Chael+ 2018a)](https://arxiv.org/abs/1804.06416) with four different values of black hole spin and electron heating functions, as viewed by the EHT at 230 GHz." %}{: .text-center}
 {: .align-right}
 
-{% include gallery id="gallery2" caption="Images of of the M87 jet at different frequencies from one of my magnetically arrested simulations (Chael+ 2018b). As the frequency increases, the brightest emission moves down the jet closer and closer to the black hole." %}{: .text-center}
+{% include gallery id="gallery2" caption="Images of of the M87 jet at different frequencies from one of my magnetically arrested simulations (Chael+ 2019). As the frequency increases, the brightest emission moves down the jet closer and closer to the black hole." %}{: .text-center}
 {: .align-right}
 
 In my research, I use the massively parallel code [KORAL](https://github.com/achael/koral_lite) which moves beyond standard single-fluid General Relativistic Magnetohydrodynamics (GRMHD) to a three-fluid approximation where electrons, ions, and photons exchange energy self-consistently. This method allows us to directly predict what the Event Horizon Telescope will see at 230 GHz and understand how different models emit across the entire electromagnetic spectrum. 
