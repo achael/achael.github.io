@@ -24,7 +24,7 @@ I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regulari
 
 [`kgeo`](https://github.com/achael/kgeo) is a lightweight Python code for generating null geodesics in the Kerr spacetime around a supermassive black hole. It can create fully polarized black hole images from simple emission models. It can also create videos like the one below illustrating the trajectories of photons that make up a black hole image. 
 
-{% include video id="PYC2tdmDU1w&ab" provider="youtube" %}
+{% include video id="PYC2tdmDU1w" provider="youtube" %}
 
 ### `KORAL`
 
