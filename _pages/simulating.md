@@ -17,7 +17,7 @@ gallery1:
   - url: /assets/images/sgrA.png
     image_path: /assets/images/sgrA.png
     alt: "Several simulated images of Sgr A*."
-    title: "Images of Sgr A* from my simulations (Chael+ 2018a) with four different values of black hole spin and electron heating functions, as viewed by the EHT at 230 GHz."
+    title: "Images of Sgr A* from my simulations (Chael+ 2018) with four different values of black hole spin and electron heating functions, as viewed by the EHT at 230 GHz."
 
 
 gallery2:
@@ -57,7 +57,7 @@ In the local universe, including the center of our own galaxy ([Sgr A*](https://
 
 In the hot, weakly coupled plasmas around the black holes M87* and Sgr A* , protons and electrons are not in thermal equilibrium with each other. Most simulations assume thermodynamic equilibrium, so it is impossible to directly predict the radiation emitted from these simulations without making additional assumptions in post-processing. This makes connecting simulations to the near-horizon [images](/_pages/imaging) observed by the Event Horizon Telescope difficult.
 
-{% include gallery id="gallery1" caption="Images of Sgr A* from my simulations [(Chael+ 2018a)](https://arxiv.org/abs/1804.06416) with four different values of black hole spin and electron heating functions, as viewed by the EHT at 230 GHz." %}{: .text-center}
+{% include gallery id="gallery1" caption="Images of Sgr A* from my simulations [(Chael+ 2018)](https://arxiv.org/abs/1804.06416) with four different values of black hole spin and electron heating functions, as viewed by the EHT at 230 GHz." %}{: .text-center}
 {: .align-right}
 
 {% include gallery id="gallery2" caption="Images of of the M87 jet at different frequencies from one of my magnetically arrested simulations (Chael+ 2019). As the frequency increases, the brightest emission moves down the jet closer and closer to the black hole." %}{: .text-center}
@@ -65,7 +65,7 @@ In the hot, weakly coupled plasmas around the black holes M87* and Sgr A* , prot
 
 In my research, I use the massively parallel code [KORAL](https://github.com/achael/koral_lite) which moves beyond standard single-fluid General Relativistic Magnetohydrodynamics (GRMHD) to a three-fluid approximation where electrons, ions, and photons exchange energy self-consistently. This method allows us to directly predict what the Event Horizon Telescope will see at 230 GHz and understand how different models emit across the entire electromagnetic spectrum. 
 
-In [Chael+ 2018a](https://arxiv.org/abs/1804.06416) I tested two physical mechanisms for electron heating in plasmas -- turbulence and magnetic reconnection -- to investigate how plasma microphysics changes the images and variability of Sgr A* at different frequencies. In [Chael+ 2019](https://arxiv.org/abs/1810.01983), I applied the same method to M87's jet and determined that the observed characteristics are well explained by a Magnetically Arrested Disc model, where extreme magnetic fields on the black hole choke accretion. I extended these simulations in [Chael 2024](https://arxiv.org/abs/2404.01471), where I developed a new method for more stably evolving magnetically-dominated jets in GRMHD simulations.
+In [Chael+ 2018](https://arxiv.org/abs/1804.06416) I tested two physical mechanisms for electron heating in plasmas -- turbulence and magnetic reconnection -- to investigate how plasma microphysics changes the images and variability of Sgr A* at different frequencies. In [Chael+ 2019](https://arxiv.org/abs/1810.01983), I applied the same method to M87's jet and determined that the observed characteristics are well explained by a Magnetically Arrested Disc model, where extreme magnetic fields on the black hole choke accretion. I extended these simulations in [Chael 2024](https://arxiv.org/abs/2404.01471), where I developed a new method for more stably evolving magnetically-dominated jets in GRMHD simulations.
 
 In 2021, I was a coordinator of the [paper](https://iopscience.iop.org/article/10.3847/2041-8213/abe4de) interpreting the EHT's first polarimetric images of M87. We found that EHT polarimetric observations also strongly favor a magnetically arrested accretion flow. I later led the EHT's 2023 analysis of [circular polarization](https://iopscience.iop.org/article/10.3847/2041-8213/acff70), which also supports a magnetically arrested accretion disk in M87.
 
@@ -79,9 +79,11 @@ In [Chael+ 2021](https://arxiv.org/abs/2106.00683), I used my simulation images 
 
 In [Chael+ 2023](https://arxiv.org/abs/2307.06372), I examined how we can use polarized images from the EHT to infer the direction of electromagnetic energy flow close to the horizon. Looking at analytic models and simulations, I found that the handedness of the polarization spiral around the black hole in M87 encodes the direction of energy flow; the [EHT's polarized image](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d) indicates that energy is flowing out from close to the central black hole. The techniques developed in this analysis could be used on future, more sensitive observations to conclusively determine if the jet in M87 is powered by the [Blandford-Znajek](https://academic.oup.com/mnras/article/179/3/433/962905) mechanism and to measure the spin of the black hole. 
 
-In [Chael+ 2017](https://arxiv.org/abs/1704.05092), I updated to `KORAL` to evolve a population of nonthermal electrons in space, time, and energy in
+I actively develop new simulation techniques to more accurately explore the extreme spacetime and plasma environments around black holes In [Chael+ 2017](https://arxiv.org/abs/1704.05092), I updated to `KORAL` to evolve a population of nonthermal electrons in space, time, and energy in
 parallel with the thermal fluid. This represents the first time that _spectral_ resolution of electron
-distributions is possible in grid-based accretion simulations. My current work is focused on extending this method to realistic presciptions for electron acceleration and running the first global 3D simulations of black hole accretion including the spectral evolution of electrons. This method will open up new ground in understanding the nonthermal jet emission in M87 and nonthermal infrared and X-ray flares in Sgr A*.
+distributions is possible in grid-based accretion simulations. My current work is focused on extending this method to realistic presciptions for electron acceleration and running the first global 3D simulations of black hole accretion including the spectral evolution of electrons. This method will open up new ground in understanding the nonthermal jet emission in M87 and nonthermal infrared and X-ray flares in Sgr A*. 
+
+In [Chael+ 2024](https://arxiv.org/abs/2404.01471), I developed a new method that better couples the force-free, highly magnetized jet region in simulations with the accretion disk. This technique solves a persistent problem in black hole simulations that usually requires codes to inject artifical mass into the jet; by applying this method to long-duration, 3D simulations of jets and outflows, we will explore jet launching, acceleration, and emission from horizon to large scales. 
 
 {% include video id="i4E6mnnZvIk" provider="youtube" %}
 
