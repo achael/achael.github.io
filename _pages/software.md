@@ -18,7 +18,7 @@ header:
 
 I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regularized maximum likelihood imaging methods on EHT data. It has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
 
-`ehtim` has so far been used in over 30 peer reviewed publications. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `ehtim` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
+`ehtim` has so far been used in over 50 peer reviewed publications. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `ehtim` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
 
 ### `kgeo`
 
