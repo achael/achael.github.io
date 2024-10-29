@@ -24,7 +24,7 @@ gallery2:
   - url: /assets/images/m87_zoom.png
     image_path: /assets/images/m87_zoom.png
     alt: "Zooming in on the M87 jet"
-    title: "Images of of the M87 jet at different frequencies from one of my MAD simulations (Chael+ 2018b). As the frequency increases, the brightest emission moves down the jet closer and closer to the black hole."
+    title: "Images of of the M87 jet at different frequencies from one of my MAD simulations (Chael+ 2019). As the frequency increases, the brightest emission moves down the jet closer and closer to the black hole."
 
 
 gallery3:
