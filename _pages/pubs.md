@@ -90,15 +90,15 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 ### Other Selected Papers
 * T Desire, **A Chael**, A Cardenas-Avendano. 
- "Multi-frequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, submitted. 
+ "Multi-frequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, submitted.  
  [_ArXiv_](https://arxiv.org/abs/2411.17884)
  
 * Z Gelles, **A Chael**, E Quataert.
- "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, submitted. 
+ "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, submitted.  
  [_ArXiv_](https://arxiv.org/abs/2410.00954)
  
 * A Raymond et al.
- "First Very Long Baseline Interferometry detections at 870 $\mu$m." _AJ_ 168, 3, 2024. 
+ "First Very Long Baseline Interferometry detections at 870 $\mu$m." _AJ_ 168, 3, 2024.  
  [_AJ_](https://doi.org/10.3847/1538-3881/ad5bdb) | [_ArXiv_](https://arxiv.org/abs/2410.07453)
  
 * MD Johnson et al.  
@@ -110,7 +110,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Nature Astronomy_](https://doi.org/10.1038/s41550-024-02238-3) | [_ArXiv_](https://arxiv.org/abs/2310.07687)
 
 * The Event Horizon Telescope Collaboration et al.
- "The persistent shadow of the supermassive black hole of M 87. I. Observations, calibration, imaging, and analysis."  _A&A_ 681, A79, 2024. 
+ "The persistent shadow of the supermassive black hole of M 87. I. Observations, calibration, imaging, and analysis."  _A&A_ 681, A79, 2024.  
  [_A&A_](https://doi.org/10.1051/0004-6361/202347932)
 
 * A Fuentes et al.  
@@ -118,7 +118,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Nature Astronomy_](https://doi.org/10.1038/s41550-023-02105-7) | [_ArXiv_](https://arxiv.org/abs/2311.01861)
  
 * F Roelofs, MD Johnson, **A Chael** et al.
- "Polarized geometric modeling for mm-VLBI observations of black holes." _ApJL_ 957, L21, 2023. 
+ "Polarized geometric modeling for mm-VLBI observations of black holes." _ApJL_ 957, L21, 2023.  
  [_ApJL_](https://doi.org/10.3847/2041-8213/acff6f) | [_ArXiv_](https://arxiv.org/abs/2311.10695)
  
 * DCM Palumbo, GN Wong, **A Chael**, MD Johnson.  
@@ -126,7 +126,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJL_](https://doi.org/10.3847/2041-8213/ace630) | [_ArXiv_](https://arxiv.org/abs/2307.05293)
  
 * R Qiu, A Ricarte, R narayan, GN Wong, **A Chael**, DCM Palumbo.
- "Using machine learning to link black hole accretion flows with spatially resolved polarimetric observables." _MNRAS_ 520, p.4867-4888, 2023. 
+ "Using machine learning to link black hole accretion flows with spatially resolved polarimetric observables." _MNRAS_ 520, p.4867-4888, 2023.   
  [_MNRAS_](https://doi.org/10.1093/mnras/stad466) | [_ArXiv_](https://arxiv.org/abs/2212.04852)
  
 * MD Johnson et al.  
@@ -134,7 +134,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Galaxies_](https://doi.org/10.3390/galaxies11010028) | [_ArXiv_](https://arxiv.org/abs/2304.11188)
  
 * K Chatterjee, **A Chael** et al.
- "Accretion Flow Morphology in Numerical Simulations of Black Holes from the ngEHT Model Library: The Impact of Radiation Physics." _Galaxies_ 11, 2, 2023. 
+ "Accretion Flow Morphology in Numerical Simulations of Black Holes from the ngEHT Model Library: The Impact of Radiation Physics." _Galaxies_ 11, 2, 2023.  
  [_Galaxies_](https://doi.org/10.3390/galaxies11020038) | [_ArXiv_](https://arxiv.org/abs/2212.01804)
  
 * S Issaoun et al.  
@@ -142,11 +142,11 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Galaxies_](https://doi.org/10.3390/galaxies11010028) | [_ArXiv_](https://arxiv.org/abs/2302.05415)
  
 * P Tiede, AE Broderick, DCM Palumbo, **A Chael**.
- "Measuring the ellipticity of M87* images." _ApJ_ 940, 2, 2022. 
+ "Measuring the ellipticity of M87* images." _ApJ_ 940, 2, 2022.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac9cd2) | [_ArXiv_](https://arxiv.org/abs/2210.13499)
  
 * H Okino et al.
- "Collimation of the relativistic jet in the quasar 3C 273." _ApJ_ 940, 1, 2022. 
+ "Collimation of the relativistic jet in the quasar 3C 273." _ApJ_ 940, 1, 2022.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac97e5) | [_ArXiv_](https://arxiv.org/abs/2112.12233)
  
 * DCM Palumbo et al.
