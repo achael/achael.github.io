@@ -17,6 +17,12 @@ header:
 ### Invited Talks
 #### 2024
 
+* "Next Steps in Simulations for the EHT"  
+ _EHT Collaboration Winter Meeting_. Virtual. December 2024.  
+ 
+* "Black Hole Jet Launching Up Close"  
+ _Paris Observatory LUTH Seminar_. Paris, France. November 2024.  
+ 
 * "The Black Hole Explorer"  
  _Princeton-IAS Bahcall Lunch_. Princeton, NJ. October 2024.  
  [slides](/assets/pdfs/2024/achael_blunch_10_01_24.pdf)
