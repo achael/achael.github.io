@@ -33,6 +33,11 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 ### First Author and Primary Collaboration Papers
 
 * **A Chael**.  
+ "Survey of radiative, two-temperature magnetically arrested simulations of the black hole M87* I: turbulent electron heating". _MNRAS_ , submitted.  
+  [arXiv](https://arxiv.org/abs/2501.12448)
+  
+  
+* **A Chael**.  
  "Hybrid GRMHD and force-free simulations of black hole accretion". _MNRAS_ 532, 2024.  
   [_MNRAS_](https://doi.org/10.1093/mnras/stae1692) | [arXiv](https://arxiv.org/abs/2404.01471)
   
@@ -90,7 +95,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 ### Other Selected Papers
 * T Desire, **A Chael**, A Cardenas-Avendano. 
- "Multi-frequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, submitted.  
+ "Multi-frequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, accepted.  
  [_ArXiv_](https://arxiv.org/abs/2411.17884)
  
 * Z Gelles, **A Chael**, E Quataert.
