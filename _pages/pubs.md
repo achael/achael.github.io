@@ -99,7 +99,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ArXiv_](https://arxiv.org/abs/2411.17884)
  
 * Z Gelles, **A Chael**, E Quataert.
- "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, submitted.  
+ "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, accepted.  
  [_ArXiv_](https://arxiv.org/abs/2410.00954)
  
 * A Raymond et al.
