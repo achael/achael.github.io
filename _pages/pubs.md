@@ -33,7 +33,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 ### First Author and Primary Collaboration Papers
 
 * **A Chael**.  
- "Survey of radiative, two-temperature magnetically arrested simulations of the black hole M87* I: turbulent electron heating". _MNRAS_ , submitted.  
+ "Survey of radiative, two-temperature magnetically arrested simulations of the black hole M87* I: turbulent electron heating". _MNRAS_ , in press.  
   [arXiv](https://arxiv.org/abs/2501.12448)
   
   
