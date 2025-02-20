@@ -220,7 +220,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Science Advances_](https://doi.org/doi:10.1126/sciadv.aaz1310) | [_ArXiv_](https://arxiv.org/abs/1907.04329)
  
 * L Blackburn et al.
- "Studying black holes on horizon scales with VLBI arrays." _Astro2020 White Paper_  
+ "Studying black holes on horizon scales with VLBI arrays." _Astro2020 White Paper_   
  [_ArXiv_](https://arxiv.org/abs/1909.01411)
  
 * S Issaoun, MD Johnson, L Blackburn, M Moscibrodzka, **A Chael**, H Falcke.  
