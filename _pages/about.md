@@ -18,8 +18,8 @@ gallery:
     image_path: /assets/images/parkcity2.jpg
   - url: /assets/images/yokohama2.jpg
     image_path: /assets/images/yokohama2.jpg
-  - url: /assets/images/taiwan2.jpg
-    image_path: /assets/images/taiwan2.jpg
+  - url: /assets/images/jiufen2.jpg
+    image_path: /assets/images/jiufen2.jpg
 ---
 
 {% include figure image_path="/assets/images/andrew24v2.jpg" alt="Andrew Chael in 2024" %}{: .align-right}
