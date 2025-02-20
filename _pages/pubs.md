@@ -223,7 +223,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  "Studying black holes on horizon scales with VLBI arrays." _Astro2020 White Paper_  
  [_ArXiv_](https://arxiv.org/abs/1909.01411)
  
-* S Issaoun, MD Johnson, L Blackburn, M Moscibrodzka, **A Chael**, H Falcke.
+* S Issaoun, MD Johnson, L Blackburn, M Moscibrodzka, **A Chael**, H Falcke.  
  "VLBI imaging of black holes via second moment regularization". A&A 629, 2019.  
  [_A&A_](https://doi.org/10.1051/0004-6361/201936156) | [_ArXiv_](https://arxiv.org/abs/1908.01296)
 
@@ -235,11 +235,11 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  "Probing sub-GeV dark matter-baryon scattering with cosmological observables". _Phys. Rev. D_ 97, 2018.   
  [_Phys. Rev. D_](https://doi.org/10.1103/PhysRevD.97.103530) | [_ArXiv_](https://arxiv.org/abs/1802.06788)
  
-* KL Bouman, MD Johnson, A Dalca, **A Chael**, F Roelofs, SS Doeleman, W Freeman.
+* KL Bouman, MD Johnson, A Dalca, **A Chael**, F Roelofs et al.
  "Reconstructing video from interferometric measurements of time-varying sources". _IEEE Transactions on  Computational Imaging_, 2018.   
  [_IEEE_](https://doi.org/10.1109/TCI.2018.2838452) | [_ArXiv_](https://arxiv.org/abs/1711.01357)
  
-* MD Johnson, KL Bouman, L Blackburn, **A Chael**, J Rosen, H Shiokawa, F Roelofs, K Akiyama, V Fish, SS Doeleman. 
+* MD Johnson, KL Bouman, L Blackburn, **A Chael**, J Rosen et al. 
  "Dynamical imaging with interferometry".
  _ApJ_ 850, 2018.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/aa97dd) | [_ArXiv_](https://arxiv.org/abs/1711.01286)
@@ -248,7 +248,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  "Radiative, two-temperature simulations of low-luminosity black hole accretion flows in general relativity". _MNRAS_ 466, 2017.  
  [_MNRAS_](https://doi.org/10.1093/mnras/stw3116) | [_ArXiv_](https://arxiv.org/abs/1605.03184)
  
-* K Akiyama, K Kuramochi, S Ikeda, V Fish, F Tazaki, M Honma, SS Doeleman, A Broderick, J Dexter, M Moscibrodzka, KL Bouman, **A Chael**, A Zaizen.  
+* K Akiyama et al.  
  "Imaging the Schwarzschild-radius-scale structure of M87 with the Event Horizon Telescope using sparse modeling". _ApJ_ 838, 2017.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/aa6305) | [_ArXiv_](https://arxiv.org/abs/1206.0428)
 
