@@ -116,7 +116,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_A&A_](https://doi.org/10.1051/0004-6361/202451296)
 
 * A Saiz-P\'erez et al.
- "Enhanced Imaging of M87*: Simulations with the EHT and extended-KVN." _JKAS_ 58, 2025. 
+ "Probing jet dynamics and collimation in radio galaxies: Application to NGC 1052." _A&A_ 693, A169, 2025. 
  [_A&A_](https://doi.org/10.1051/0004-6361/202451698) | [_ArXiv_](https://arxiv.org/abs/2412.02358)
 
 * A Raymond et al.
