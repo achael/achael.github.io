@@ -83,7 +83,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [_ArXiv_](https://arxiv.org/abs/1605.06156)
 
 ### Student papers
-* Z Gelles, **A Chael**, E Quataert.
+* Z Gelles, **A Chael**, E Quataert. 
  "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, accepted.  
  [_ArXiv_](https://arxiv.org/abs/2410.00954)
  
@@ -103,23 +103,23 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  
 ### Other Selected Papers
 
-* Y Tsunetoe, D Pesce, R Narayan, **A Chael** et al.
+* Y Tsunetoe, D Pesce, R Narayan, **A Chael** et al.  
  "Limb-brightened jet in M87 from anisotropic nonthermal electrons." Submitted to _ApJ_.  
  [_ArXiv_](https://arxiv.org/abs/2501.14862)
  
-* I Cho et al.
- "Enhanced Imaging of M87*: Simulations with the EHT and extended-KVN." _JKAS_ 58, 2025. 
+* I Cho et al.  
+ "Enhanced Imaging of M87*: Simulations with the EHT and extended-KVN." _JKAS_ 58, 2025.  
  [_JKAS_](https://doi.org/10.5303/JKAS.2025.58.1.17) | [_ArXiv_](https://arxiv.org/abs/2501.11822)
 
 * The Event Horizon Telescope Collaboration et al.
  "The persistent shadow of the supermassive black hole of M 87. II. Model comparisons and theoretical interpretations."  _A&A_ 693, A265, 2025.  
  [_A&A_](https://doi.org/10.1051/0004-6361/202451296)
 
-* A Saiz-P\'erez et al.
- "Probing jet dynamics and collimation in radio galaxies: Application to NGC 1052." _A&A_ 693, A169, 2025. 
+* A Saiz-Perez et al.  
+ "Probing jet dynamics and collimation in radio galaxies: Application to NGC 1052." _A&A_ 693, A169, 2025.  
  [_A&A_](https://doi.org/10.1051/0004-6361/202451698) | [_ArXiv_](https://arxiv.org/abs/2412.02358)
 
-* A Raymond et al.
+* A Raymond et al.  
  "First Very Long Baseline Interferometry detections at 870 $\mu$m." _AJ_ 168, 3, 2024.  
  [_AJ_](https://doi.org/10.3847/1538-3881/ad5bdb) | [_ArXiv_](https://arxiv.org/abs/2410.07453)
  
@@ -163,7 +163,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  "Enabling transformational ngEHT science via the inclusion of 86 GHz capabilities". _Galaxies_ 11, 2023.  
  [_Galaxies_](https://doi.org/10.3390/galaxies11010028) | [_ArXiv_](https://arxiv.org/abs/2302.05415)
  
-* P Tiede, AE Broderick, DCM Palumbo, **A Chael**.
+* P Tiede, AE Broderick, DCM Palumbo, **A Chael**.  
  "Measuring the ellipticity of M87* images." _ApJ_ 940, 2, 2022.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac9cd2) | [_ArXiv_](https://arxiv.org/abs/2210.13499)
  
@@ -171,8 +171,8 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  "Collimation of the relativistic jet in the quasar 3C 273." _ApJ_ 940, 1, 2022.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac97e5) | [_ArXiv_](https://arxiv.org/abs/2112.12233)
  
-* DCM Palumbo et al.
- "Bayesian accretion modeling: axisymmetric equatorial emission in the Kerr spacetime." _ApJ_ 939, 2, 2022. 
+* DCM Palumbo et al.  
+ "Bayesian accretion modeling: axisymmetric equatorial emission in the Kerr spacetime." _ApJ_ 939, 2, 2022.   
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac9ab7) | [_ArXiv_](https://arxiv.org/abs/2210.07108)
  
 * S Issaoun et al.  
@@ -180,7 +180,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40) | [_ArXiv_](https://arxiv.org/abs/2208.01662)
  
 * J Farah, P Galison, K Akiyama, KL Bouman, GC Bower, **A Chael**, et al.
- "Selective dynamical imaging of interferometric data." _ApJL_ 930, L18, 2022. 
+ "Selective dynamical imaging of interferometric data." _ApJL_ 930, L18, 2022.  
  [_ApJL_](https://doi.org/10.3847/2041-8213/ac6615) | [_ArXiv_](https://arxiv.org/abs/2409.08321)
  
 * A Levis, P Srinivasan, **A Chael**, R Ng, KL Bouman.  
@@ -188,19 +188,19 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_CVF_](https://openaccess.thecvf.com/content/CVPR2022/papers/Levis_Gravitationally_Lensed_Black_Hole_Emission_Tomography_CVPR_2022_paper.pdf) | [_ArXiv_](https://arxiv.org/abs/2204.03715)
  
 * R Narayan, **A Chael**, K Chatterjee, A Ricarte, B Curd.  
- "Jets in magnetically arrested accretion flows: geometry, power and black hole spindown". _MNRAS_ 511, p.3795-3813, 2022. 
+ "Jets in magnetically arrested accretion flows: geometry, power and black hole spindown". _MNRAS_ 511, p.3795-3813, 2022.   
  [_MNRAS_](https://doi.org/10.1093/mnras/stac285) | [_ArXiv_](https://arxiv.org/abs/2108.12380)
  
 * M Janssen et al.  
  "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A". _Nature Astronomy_ 2021.  
  [_Nature Astronomy_](https://doi.org/10.1038/s41550-021-01417-w) | [_ArXiv_](https://arxiv.org/abs/2111.03356)
  
-* S Issaoun et al.
- "Persistent non-Gaussian structure in the image of Sagittarius A* at 86 GHz." _ApJ_ 915, 2, 2021. 
+* S Issaoun et al.  
+ "Persistent non-Gaussian structure in the image of Sagittarius A* at 86 GHz." _ApJ_ 915, 2, 2021.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac00b0) | [_ArXiv_](https://arxiv.org/abs/2104.07610)
  
-* R Narayan et al.
- "The polarized image of a synchrotron-emtting ring of gas orbiting a black hole." _ApJ_ 912, 35, 2021. 
+* R Narayan et al.  
+ "The polarized image of a synchrotron-emtting ring of gas orbiting a black hole." _ApJ_ 912, 35, 2021.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/abf117) | [_ArXiv_](https://arxiv.org/abs/2105.01804)
 
 * M Wielgus et al.  
@@ -212,7 +212,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJ_](https://doi.org/10.3847/1538-4357/ab8469) | [_ArXiv_](https://arxiv.org/abs/1910.02062)
  
 * J-Y Kim et al.
- "Event Horizon Telescope Imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution" _A&A_ 640, A69, 2020. 
+ "Event Horizon Telescope Imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution" _A&A_ 640, A69, 2020.  
  [_A&A_](https://doi.org/10.1051/0004-6361/202037493)
  
 * M Johnson et al.  
@@ -220,7 +220,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Science Advances_](https://doi.org/doi:10.1126/sciadv.aaz1310) | [_ArXiv_](https://arxiv.org/abs/1907.04329)
  
 * L Blackburn et al.
- "Studying black holes on horizon scales with VLBI arrays." _Astro2020 White Paper_
+ "Studying black holes on horizon scales with VLBI arrays." _Astro2020 White Paper_  
  [_ArXiv_](https://arxiv.org/abs/1909.01411)
  
 * S Issaoun, MD Johnson, L Blackburn, M Moscibrodzka, **A Chael**, H Falcke.
@@ -245,10 +245,10 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJ_](https://doi.org/10.3847/1538-4357/aa97dd) | [_ArXiv_](https://arxiv.org/abs/1711.01286)
  
 * A Sadowski, M Wielgus, R Narayan, D Abarca, J McKinney, **A Chael**.
- "Radiative, two-temperature simulations of low-luminosity black hole accretion flows in general relativity". _MNRAS_ 466, 2018.  
+ "Radiative, two-temperature simulations of low-luminosity black hole accretion flows in general relativity". _MNRAS_ 466, 2017.  
  [_MNRAS_](https://doi.org/10.1093/mnras/stw3116) | [_ArXiv_](https://arxiv.org/abs/1605.03184)
  
-* K Akiyama, K Kuramochi, S Ikeda, V Fish, F Tazaki, M Honma, SS Doeleman, A Broderick, J Dexter, M Moscibrodzka, KL Bouman, **A Chael**, A Zaizen.
+* K Akiyama, K Kuramochi, S Ikeda, V Fish, F Tazaki, M Honma, SS Doeleman, A Broderick, J Dexter, M Moscibrodzka, KL Bouman, **A Chael**, A Zaizen.  
  "Imaging the Schwarzschild-radius-scale structure of M87 with the Event Horizon Telescope using sparse modeling". _ApJ_ 838, 2017.  
  [_ApJ_](https://doi.org/10.3847/1538-4357/aa6305) | [_ArXiv_](https://arxiv.org/abs/1206.0428)
 
@@ -270,8 +270,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_ApJ_](https://doi.org/10.1088/0004-637X/813/2/132) | [_ArXiv_](https://arxiv.org/abs/1505.07870)
 
 * P Verbiest, J Weisberg, **A Chael**, K Lee, D Lorimer.
- "On pulsar distance measures and their uncertainties".  
- _ApJ_ 775, 2012.   
+ "On pulsar distance measures and their uncertainties".  _ApJ_ 775, 2012.    
  [_ApJ_](https://doi.org/10.1088/0004-637X/755/1/39) | [_ArXiv_](https://arxiv.org/abs/1206.0428)
  
 <br/><br/>
