@@ -18,11 +18,11 @@ gallery:
     image_path: /assets/images/parkcity2.jpg
   - url: /assets/images/yokohama2.jpg
     image_path: /assets/images/yokohama2.jpg
-  - url: /assets/images/jiufen2.jpg
-    image_path: /assets/images/jiufen2.jpg
+  - url: /assets/images/taiwan2.jpg
+    image_path: /assets/images/taiwan2.jpg
 ---
 
-{% include figure image_path="/assets/images/andrew21.jpg" alt="Andrew Chael in 2021" %}{: .align-right}
+{% include figure image_path="/assets/images/andrew24.jpg" alt="Andrew Chael in 2024" %}{: .align-right}
 
 I am an associate research scholar at the Princeton University [Gravity Initiative](https://gravity.princeton.edu/). From 2019-2022 I was a [NASA Hubble Fellowship Program](http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program) (NHFP) [Einstein Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2019-nhfp-fellows) at the Princeton [Center for Theoretical Science](http://pcts.princeton.edu/). I am a leading member of the international [Event Horizon Telescope](http://eventhorizontelescope.org/) (EHT) collaboration, and an elected member of the EHT collaboration Science Board.
 
