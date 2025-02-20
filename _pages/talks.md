@@ -17,6 +17,9 @@ header:
 ### Invited Talks
 #### 2024
 
+* "Black Hole Images with the EHT: Features, Uncertainties, and Interpretation"  
+ _Black Hole Mimickers: From Theory to Observation_. Princeton, NJ. March 2025.  
+ 
 * "Next Steps in Simulations for the EHT"  
  _EHT Collaboration Winter Meeting_. Virtual. December 2024.  
  

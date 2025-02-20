@@ -20,30 +20,19 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 [Here](/assets/pdfs/achael_dissertation_final.pdf) is a link to my thesis, "Simulating and Imaging Supermassive Black Hole Accretion Flows". 
 
-### EHT Collaboration Papers
-
-* **The Event Horizon  Telescope Collaboration** et al.  
- "First Sagittarius A* Event Horizon Telescope Results. I--VIII". _ApJL_ 964, 2022,2023.  
- [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results)
- 
-* **The Event Horizon  Telescope Collaboration** et al.  
- "First M87 Event Horizon Telescope Results. I--IX". _ApJL_ 875, 2019,2021.  
- [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
-
 ### First Author and Primary Collaboration Papers
 
 * **A Chael**.  
- "Survey of radiative, two-temperature magnetically arrested simulations of the black hole M87* I: turbulent electron heating". _MNRAS_ , in press.  
-  [arXiv](https://arxiv.org/abs/2501.12448)
-  
+ "Survey of radiative, two-temperature magnetically arrested simulations of the black hole M87* I: turbulent electron heating". _MNRAS_ , 537, 2025.  
+  [_MNRAS_](https://academic.oup.com/mnras/article/537/3/2496/7998937) | [_ArXiv_](https://arxiv.org/abs/2501.12448)
   
 * **A Chael**.  
  "Hybrid GRMHD and force-free simulations of black hole accretion". _MNRAS_ 532, 2024.  
-  [_MNRAS_](https://doi.org/10.1093/mnras/stae1692) | [arXiv](https://arxiv.org/abs/2404.01471)
+  [_MNRAS_](https://doi.org/10.1093/mnras/stae1692) | [_ArXiv_](https://arxiv.org/abs/2404.01471)
   
 * **A Chael**, A Lupsasca, GN Wong, E Quataert.  
  "Black hole polarimetry I: a signature of electromagnetic energy extraction". _ApJ_ 958, 2023.  
-  [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/acf92d) | [arXiv](https://arxiv.org/abs/2307.06372)
+  [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/acf92d) | [_ArXiv_](https://arxiv.org/abs/2307.06372)
 
 * The Event Horizon Telescope Collaboration et al. **(paper coordinator)**.  
  "First Event Horizon Telescope Results IX: detection of near-horizon circular polarization". _ApJL_ 957, 2023.  
@@ -51,7 +40,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
   
 * **A Chael**, S Issaoun, D Pesce, M Johnson, A Ricarte, C Fromm, Y Mizuno.  
  "Multifrequency imaging for the next-generation Event Horizon Telescope". _ApJ_ 945, 2023. 
- [_ApJ_](https://doi.org/10.3847/1538-4357/acb7e4) | [arXiv](https://arxiv.org/abs/2210.12226)
+ [_ApJ_](https://doi.org/10.3847/1538-4357/acb7e4) | [_ArXiv_](https://arxiv.org/abs/2210.12226)
 
 * The Event Horizon Telescope Collaboration et al. **(paper writing team)**.  
  "First Sagittarius A* Event Horizon Telescope Results III: imaging of the Galactic Center supermassive black hole". _ApJL_ 930, 2022.  
@@ -59,7 +48,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 * **A Chael**, M Johnson, A Lupsasca.  
  "Observing the inner shadow of a black hole: a direct view of the event horizon".  _ApJ_ 918, 2021.  
- [_MNRAS_](https://doi.org/10.3847/1538-4357/ac09ee) | [arXiv](https://arxiv.org/pdf/2106.00683.pdf)
+ [_MNRAS_](https://doi.org/10.3847/1538-4357/ac09ee) | [_ArXiv_](https://arxiv.org/pdf/2106.00683.pdf)
 
 * The Event Horizon Telescope Collaboration et al. **(paper coordinator)**.  
  "First Event Horizon Telescope Results VIII: magnetic field structure near the event horizon". _ApJL_ 910, 2021.  
@@ -71,7 +60,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 * **A Chael**, R Narayan, M Johnson.  
  "Two-temperature, Magnetically Arrested Disc simulations of the supermassive black hole in M87".  _MNRAS_ 486, 2019.  
- [_MNRAS_](https://doi.org/10.1093/mnras/stz988) | [arXiv](https://arxiv.org/abs/1810.01983)
+ [_MNRAS_](https://doi.org/10.1093/mnras/stz988) | [_ArXiv_](https://arxiv.org/abs/1810.01983)
 
 * The Event Horizon Telescope Collaboration et al. **(paper writing team)**.  
  "First Event Horizon Telescope Results IV: imaging the central supermassive black hole". _ApJL_ 875, 2019.  
@@ -79,29 +68,57 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 * **A Chael**, M Rowan, R Narayan, MD Johnson, L Sironi.  
  "The role of electron heating physics in images and variability of the Galactic Center black hole Sagittarius A*''. _MNRAS_ 478, 2018.  
- [_MNRAS_](https://doi.org/10.1093/mnras/sty1261) | [arXiv](https://arxiv.org/abs/1804.06416)
+ [_MNRAS_](https://doi.org/10.1093/mnras/sty1261) | [_ArXiv_](https://arxiv.org/abs/1804.06416)
 
 * **A Chael**, MD Johnson, KL Bouman, L Blackburn, K Akiyama, R Narayan.  
  "Interferometric imaging directly with closure phases and closure amplitudes".  _ApJ_ 857, 2018.  
- [_ApJ_](https://doi.org/10.3847/1538-4357/aab6a8) | [arXiv](https://arxiv.org/abs/1803.07088)
+ [_ApJ_](https://doi.org/10.3847/1538-4357/aab6a8) | [_ArXiv_](https://arxiv.org/abs/1803.07088)
 
 * **A Chael**,  R Narayan, A Sadowski.  
  "Evolving non-thermal electrons in simulations of black hole accretion". _MNRAS_ 470, 2017.  
- [_MNRAS_](https://doi.org/10.1093/mnras/stx1345) | [arXiv](https://arxiv.org/abs/1704.05092)
+ [_MNRAS_](https://doi.org/10.1093/mnras/stx1345) | [_ArXiv_](https://arxiv.org/abs/1704.05092)
 
 * **A Chael**, MD Johnson, R Narayan, SS Doeleman, J Wardle, KL Bouman.  
  "High-resolution linear polarimetric imaging for the Event Horizon Telescope". _ApJ_ 829, 2016.  
- [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [arXiv](https://arxiv.org/abs/1605.06156)
+ [_ApJ_](https://doi.org/10.3847/0004-637X/829/1/11) | [_ArXiv_](https://arxiv.org/abs/1605.06156)
 
-### Other Selected Papers
-* T Desire, **A Chael**, A Cardenas-Avendano. 
- "Multi-frequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, accepted.  
- [_ArXiv_](https://arxiv.org/abs/2411.17884)
- 
+### Student papers
 * Z Gelles, **A Chael**, E Quataert.
  "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, accepted.  
  [_ArXiv_](https://arxiv.org/abs/2410.00954)
  
+* T Desire, A Cardenas-Avendano, **A Chael**. 
+ "Multifrequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, 980, 2025.  
+ [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/adac4d) | [_ArXiv_](https://arxiv.org/abs/2411.17884)
+
+### EHT Collaboration Paper Collections
+
+* **The Event Horizon  Telescope Collaboration** et al.  
+ "First Sagittarius A* Event Horizon Telescope Results. I--VIII". _ApJL_ 964, 2022,2023.  
+ [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results)
+ 
+* **The Event Horizon  Telescope Collaboration** et al.  
+ "First M87 Event Horizon Telescope Results. I--IX". _ApJL_ 875, 2019,2021.  
+ [_ApJL_ (open access)](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)
+ 
+### Other Selected Papers
+
+* Y Tsunetoe, D Pesce, R Narayan, **A Chael** et al.
+ "Limb-brightened jet in M87 from anisotropic nonthermal electrons." Submitted to _ApJ_.  
+ [_ArXiv_](https://arxiv.org/abs/2501.14862)
+ 
+* I Cho et al.
+ "Enhanced Imaging of M87*: Simulations with the EHT and extended-KVN." _JKAS_ 58, 2025. 
+ [_JKAS_](https://doi.org/10.5303/JKAS.2025.58.1.17) | [_ArXiv_](https://arxiv.org/abs/2501.11822)
+
+* The Event Horizon Telescope Collaboration et al.
+ "The persistent shadow of the supermassive black hole of M 87. II. Model comparisons and theoretical interpretations."  _A&A_ 693, A265, 2025.  
+ [_A&A_](https://doi.org/10.1051/0004-6361/202451296)
+
+* A Saiz-P\'erez et al.
+ "Enhanced Imaging of M87*: Simulations with the EHT and extended-KVN." _JKAS_ 58, 2025. 
+ [_A&A_](https://doi.org/10.1051/0004-6361/202451698) | [_ArXiv_](https://arxiv.org/abs/2412.02358)
+
 * A Raymond et al.
  "First Very Long Baseline Interferometry detections at 870 $\mu$m." _AJ_ 168, 3, 2024.  
  [_AJ_](https://doi.org/10.3847/1538-3881/ad5bdb) | [_ArXiv_](https://arxiv.org/abs/2410.07453)
@@ -179,7 +196,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Nature Astronomy_](https://doi.org/10.1038/s41550-021-01417-w) | [_ArXiv_](https://arxiv.org/abs/2111.03356)
  
 * S Issaoun et al.
- "Persistant non-Gaussian structure in the image of Sagittarius A* at 86 GHz." _ApJ_ 915, 2, 2021. 
+ "Persistent non-Gaussian structure in the image of Sagittarius A* at 86 GHz." _ApJ_ 915, 2, 2021. 
  [_ApJ_](https://doi.org/10.3847/1538-4357/ac00b0) | [_ArXiv_](https://arxiv.org/abs/2104.07610)
  
 * R Narayan et al.
