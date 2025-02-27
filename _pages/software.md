@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
 
 ---
-### `ehtim`
+### `eht-imaging`
 
 I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regularized maximum likelihood imaging methods on EHT data. It has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
 
