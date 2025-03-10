@@ -84,8 +84,8 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 
 ### Student papers
 * Z Gelles, **A Chael**, E Quataert. 
- "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_, accepted.  
- [_ArXiv_](https://arxiv.org/abs/2410.00954)
+ "Signatures of black hole spin and plasma acceleration in jet polarimetry." _ApJ_ 981, 2025.  
+ [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/adb1aa) | [_ArXiv_](https://arxiv.org/abs/2410.00954)
  
 * T Desire, A Cardenas-Avendano, **A Chael**. 
  "Multifrequency models of black hole photon rings from low-luminosity accretion disks." _ApJ_, 980, 2025.  
