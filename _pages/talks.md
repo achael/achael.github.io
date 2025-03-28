@@ -17,15 +17,18 @@ header:
 ### Invited Talks
 #### 2025
 
-* "Black Hole Images with the EHT: Features, Uncertainties, and Interpretation"  
+* "Black hole jet launching up close"  
+ _ASIAA Seminar_. Taipei, Taiwan. March 2025.  
+ 
+* "Black hole images with the EHT: features, uncertainties, and interpretation"  
  _Black Hole Mimickers: From Theory to Observation_. Princeton, NJ. March 2025.  
 
 #### 2024
 
-* "Next Steps in Simulations for the EHT"  
+* "Next steps in simulations for the EHT"  
  _EHT Collaboration Winter Meeting_. Virtual. December 2024.  
  
-* "Black Hole Jet Launching Up Close"  
+* "Black holes in polarized light"  
  _Paris Observatory LUTH Seminar_. Paris, France. November 2024.  
  
 * "The Black Hole Explorer"  
