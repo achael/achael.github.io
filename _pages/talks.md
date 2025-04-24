@@ -17,6 +17,9 @@ header:
 ### Invited Talks
 #### 2025
 
+* "Black hole energy extraction from polarized images"  
+ _CIERA Theory Seminar_. Evanston, Illinois. March 2025.  
+ 
 * "Black hole jet launching up close"  
  _ASIAA Seminar_. Taipei, Taiwan. March 2025.  
  
