@@ -104,15 +104,15 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
 ### Other Selected Papers
 
 * Y Tsunetoe, D Pesce, R Narayan, **A Chael** et al.  
- "Limb-brightened jet in M87 from anisotropic nonthermal electrons." Submitted to _ApJ_.  
- [_ArXiv_](https://arxiv.org/abs/2501.14862)
+ "Limb-brightened jet in M87 from anisotropic nonthermal electrons." _ApJ_ 984, 35, 2025 
+ [_ApJ_](https://iopscience.iop.org/article/10.3847/1538-4357/adc37a) | [_ArXiv_](https://arxiv.org/abs/2501.14862)
  
 * I Cho et al.  
  "Enhanced Imaging of M87*: Simulations with the EHT and extended-KVN." _JKAS_ 58, 2025.  
  [_JKAS_](https://doi.org/10.5303/JKAS.2025.58.1.17) | [_ArXiv_](https://arxiv.org/abs/2501.11822)
 
 * The Event Horizon Telescope Collaboration et al.
- "The persistent shadow of the supermassive black hole of M 87. II. Model comparisons and theoretical interpretations."  _A&A_ 693, A265, 2025.  
+ "The persistent shadow of the supermassive black hole of M87. II. Model comparisons and theoretical interpretations."  _A&A_ 693, A265, 2025.  
  [_A&A_](https://doi.org/10.1051/0004-6361/202451296)
 
 * A Saiz-Perez et al.  
@@ -132,7 +132,7 @@ You can find my papers in [this ADS library](https://ui.adsabs.harvard.edu/publi
  [_Nature Astronomy_](https://doi.org/10.1038/s41550-024-02238-3) | [_ArXiv_](https://arxiv.org/abs/2310.07687)
 
 * The Event Horizon Telescope Collaboration et al.
- "The persistent shadow of the supermassive black hole of M 87. I. Observations, calibration, imaging, and analysis."  _A&A_ 681, A79, 2024.  
+ "The persistent shadow of the supermassive black hole of M87. I. Observations, calibration, imaging, and analysis."  _A&A_ 681, A79, 2024.  
  [_A&A_](https://doi.org/10.1051/0004-6361/202347932)
 
 * A Fuentes et al.  
