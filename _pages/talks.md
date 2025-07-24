@@ -16,9 +16,15 @@ header:
 
 ### Invited Talks
 #### 2025
-
+* "Imagng Black Holes"  
+ _International Congress of Basic Science_. Beijing, China. July 2025.  
+ [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA)
+    
+* "Insights from polarized black hole images"  
+ _LANL Astronomy Seminar_. Los Alamos, New Mexico. June 2025.  
+ 
 * "Black hole energy extraction from polarized images"  
- _CIERA Theory Seminar_. Evanston, Illinois. March 2025.  
+ _Northwestern CIERA Theory Seminar_. Evanston, Illinois. March 2025.  
  
 * "Black hole jet launching up close"  
  _ASIAA Seminar_. Taipei, Taiwan. March 2025.  
