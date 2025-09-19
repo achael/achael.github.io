@@ -13,6 +13,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
+* [_TACC News_](https://tacc.utexas.edu/news/latest-news/2025/07/29/beyond-the-shadow-of-a-black-hole/) (July 31, 2025)
+
 * [_The Postdoc Path_ Podcast](https://podcasts.apple.com/us/podcast/ppp-s3-e1-andrew-chael/id1647669173?i=1000669306858) (September 12, 2024)
 
 * [APS _Physics Magazine_](https://physics.aps.org/articles/v17/43) (March 15, 2024)

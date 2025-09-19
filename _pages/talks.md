@@ -16,30 +16,36 @@ header:
 
 ### Invited Talks
 #### 2025
-* "Imagng Black Holes"  
+* "Imaging Black Holes"  
  _International Congress of Basic Science_. Beijing, China. July 2025.  
- [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA)
+ [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA) |  [slides](/assets/pdfs/2025/achael_icbs_07_16_25.pdf)
     
 * "Insights from polarized black hole images"  
  _LANL Astronomy Seminar_. Los Alamos, New Mexico. June 2025.  
- 
+ [slides](/assets/pdfs/2025/achael_lanl_6_12_25.pdf)
+  
 * "Black hole energy extraction from polarized images"  
  _Northwestern CIERA Theory Seminar_. Evanston, Illinois. March 2025.  
- 
+ [slides](/assets/pdfs/2025/achael_ciera_4_24_25.pdf)
+  
 * "Black hole jet launching up close"  
  _ASIAA Seminar_. Taipei, Taiwan. March 2025.  
- 
+ [slides](/assets/pdfs/2025/achael_asiaa_3_26_25.pdf)
+  
 * "Black hole images with the EHT: features, uncertainties, and interpretation"  
  _Black Hole Mimickers: From Theory to Observation_. Princeton, NJ. March 2025.  
-
+ [slides](/assets/pdfs/2025/achael_princeton_3_3_25.pdf)
+ 
 #### 2024
 
 * "Next steps in simulations for the EHT"  
  _EHT Collaboration Winter Meeting_. Virtual. December 2024.  
- 
+ [slides](/assets/pdfs/2024/achael_ehtmtg_12_5_24.pdf)
+  
 * "Black holes in polarized light"  
  _Paris Observatory LUTH Seminar_. Paris, France. November 2024.  
- 
+ [slides](/assets/pdfs/2024/achael_paris_11_13_24.pdf)
+  
 * "The Black Hole Explorer"  
  _Princeton-IAS Bahcall Lunch_. Princeton, NJ. October 2024.  
  [slides](/assets/pdfs/2024/achael_blunch_10_01_24.pdf)
@@ -48,15 +54,15 @@ header:
  _The Event Horizon and Beyond: 50 Years of Narayan_. Cambridge, MA. June 2024.  
  [slides](/assets/pdfs/2024/achael_narayan50_6_13_24.pdf)
  
-* Polarized signatures of jet launching on horizon scales"  
+* "Polarized signatures of jet launching on horizon scales"  
  _EHT Collaboration Summer Meeting_. Mexico City, MX. May 2024.   
  [slides](/assets/pdfs/2024/achael_ehtmtg_5_24_24.pdf)
  
-* Polarization signatures of jet launching on horizon scales."  
+* "Polarization signatures of jet launching on horizon scales."  
  _AAS HEAD 21 Meeting_. Horseshoe Bay, TX. April 2024.   
  [slides](/assets/pdfs/2024/achael_head_4_11_24.pdf)
  
-* Black hole jet launching up close."  
+* "Black hole jet launching up close."  
  _Harvard BHI Colloquium_. Cambridge, MA. March 2024.  
  [video](https://www.youtube.com/watch?v=VKcboaM3c2Y&ab_channel=BlackHoleInitiative) | [slides](/assets/pdfs/2024/achael_bhi_3_18_24.pdf)
  
