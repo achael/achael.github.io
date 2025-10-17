@@ -16,6 +16,14 @@ header:
 
 ### Invited Talks
 #### 2025
+* "New Insights from Polarized Images of Black Holes"  
+ _UToronto Astronomy Colloquium_. Toronto, ON. October 2025.  
+ [video](https://www.youtube.com/watch?v=zPhgsAtjk-o&pp=ygUMYW5kcmV3IGNoYWVs) |  [slides](/assets/pdfs/2025/achael_ut_10_15_25.pdf)
+ 
+* "Insights from Polarized Images of Black Holes"  
+ _Harvard ITC Colloquium_. Cambridge, MA. September 2025.  
+ [video](https://www.youtube.com/watch?v=OWHtOiQeozw&t=12s&pp=ygUMYW5kcmV3IGNoYWVs ) |  [slides](/assets/pdfs/2025/achael_itc_9_25_25.pdf)
+ 
 * "Imaging Black Holes"  
  _International Congress of Basic Science_. Beijing, China. July 2025.  
  [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA) |  [slides](/assets/pdfs/2025/achael_icbs_07_16_25.pdf)
