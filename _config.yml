@@ -103,15 +103,15 @@ author:
   #avatar            : /assets/images/bh_small.png
   bio              : "Theoretical astrophysicist studying black holes, accretion, jets, MHD, computational imaging, and other topics. 
                       <br /> <br /> 
-                      achael@princeton.edu
+                      andrew.chael@nbi.ku.dk
                       <br />  <br /> 
-                      465 Jadwin Hall  <br /> 
-                      Princeton University <br />
-                      Princeton, NJ 08540
+                      Niels Bohr International Academy  <br /> 
+                      Blegdamsvej 17DK-2100 Copenhagen
+ <br />
                       <br />  <br /> 
                        "
 
-  email            : "achael@princeton.edu"
+  email            : "andrew.chael@nbi.ku.dk"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
