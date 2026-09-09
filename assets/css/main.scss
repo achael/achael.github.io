@@ -20,3 +20,8 @@ html {
   }
 }
 
+
+/* hide the permalink (chain) icons the theme's JS appends to headings */
+.page__content .header-link {
+  display: none !important;
+}
