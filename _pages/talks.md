@@ -15,6 +15,8 @@ header:
 ---
 
 ### Invited Talks
+#### 2026 
+
 #### 2025
 * "New Insights from Polarized Images of Black Holes"  
  _UToronto Astronomy Colloquium_. Toronto, ON. October 2025.  
