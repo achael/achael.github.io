@@ -44,8 +44,8 @@ gallery3:
 {% include gallery id="gallery1" caption="The stations of the Event Horizon Telescope" %}{: .align-right}
 
 The [EHT](http://eventhorizontelescope.org/) is a globe-spanning [VLBI](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry) array that observes the nearest supermassive black holes in 
-<a href="https://en.wikipedia.org/wiki/Sagittarius_A*">Sgr A*</a> 
-and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation, the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017, 2018, 2021 and 2022.
+[Sgr A*](https://en.wikipedia.org/wiki/Sagittarius_A*)
+and [M87](https://en.wikipedia.org/wiki/Messier_87) at 1.3 mm wavelength. After years of preparation, the EHT observed Sgr A* and M87 with telescopes around the world in the spring of 2017, resulting in the first direct images of black holes on event horizon scales. The EHT has since observed these black holes and many other extragalactic sources in 2018, 2021, 2022, 2024, 2025, and 2026.
 
 
 By correlating the recorded electric field measured simultaneously at telescopes around the world, the EHT can effectively _synthesize_ the resolving power of an Earth-sized telescope with an angular resolution of about 10 _microarcseconds_ (1 / 360,000,000<sup>th</sup> of a degree!).
