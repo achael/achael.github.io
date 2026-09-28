@@ -16,17 +16,39 @@ header:
 
 ### Invited Talks
 #### 2026 
+* "What have we learned from black hole images?"  
+ _URSI General Assembly_. Krakow, Poland. August 2026.  
+ [slides](/assets/pdfs/2025/achael_ursi_08_21_26.pdf)
+ 
+ 
+* "Dynamic Black Hole Magnetic Fields Revealed by the Event Horizon Telescope?"  
+ _SPIE Astronomical Telescopes+Instrumentation_. Copenhagen, Denmark. July 2026.  
+ [video](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14153/1415313/Dynamic-magnetic-fields-around-black-holes-revealed-by-the-Event/10.1117/12.3105315.full) | [slides](/assets/pdfs/2025/achael_spie_07_08_26.pdf)
+ 
+ 
+* "What have we learned from black hole images?"  
+ _Black Holes and Blue Notes Conference_. Montreal, QC. July 2026.  
+ [slides](/assets/pdfs/2025/achael_montreal_07_03_26.pdf)
+ 
+ 
+* "Polarized images of black holes"  
+ _LAWPhysics Webinar_. Virtual. April 2026.  
+ [video](https://www.youtube.com/watch?v=GRB_EIQWnrU&t=1766s) | [slides](/assets/pdfs/2025/achael_lawphysics_4_29_26.pdf)
 
+* "What can we learn from polarized images of black holes?"  
+ __. Oxford, UK. March 2026.  
+ [video](https://drive.google.com/file/d/1uQUPK47GkarwLrlnzsd8vOATU2Dfb9Dv/view?usp=sharing) [slides](/assets/pdfs/2025/achael_oxford_3_23_26.pdf)
+ 
 #### 2025
-* "New Insights from Polarized Images of Black Holes"  
+* "New insights from polarized images of black holes"  
  _UToronto Astronomy Colloquium_. Toronto, ON. October 2025.  
  [video](https://www.youtube.com/watch?v=zPhgsAtjk-o&pp=ygUMYW5kcmV3IGNoYWVs) | [slides](/assets/pdfs/2025/achael_ut_10_15_25.pdf)
  
-* "Insights from Polarized Images of Black Holes"  
+* "Insights from polarized images of black holes"  
  _Harvard ITC Colloquium_. Cambridge, MA. September 2025.  
  [video](https://www.youtube.com/watch?v=OWHtOiQeozw&t=12s&pp=ygUMYW5kcmV3IGNoYWVs) | [slides](/assets/pdfs/2025/achael_itc_9_25_25.pdf)
  
-* "Imaging Black Holes"  
+* "Imaging black holes"  
  _International Congress of Basic Science_. Beijing, China. July 2025.  
  [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA) | [slides](/assets/pdfs/2025/achael_icbs_07_16_25.pdf)
     
