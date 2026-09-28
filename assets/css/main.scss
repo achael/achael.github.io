@@ -1,24 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 
-html {
-  font-size: 12px; // change to whatever
-
-  @include breakpoint($medium) {
-    font-size: 16px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 16px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
-  }
-}
+// Custom base font sizes. These never took effect before (this file was missing
+// its front matter), so they're left disabled to keep the site's current look.
+// Uncomment to shrink text relative to the theme defaults (16/18/20/22px).
+// html {
+//   font-size: 12px; // change to whatever
+//
+//   @include breakpoint($medium) {
+//     font-size: 16px; // change to whatever
+//   }
+//
+//   @include breakpoint($large) {
+//     font-size: 16px; // change to whatever
+//   }
+//
+//   @include breakpoint($x-large) {
+//     font-size: 18px; // change to whatever
+//   }
+// }
 
 
 /* hide the permalink (chain) icons the theme's JS appends to headings */
