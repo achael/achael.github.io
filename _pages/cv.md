@@ -14,4 +14,4 @@ header:
   overlay_filter: "0.5"
 
 ---
-[Click here to download a .pdf of my current cv]({{ site.url }}/assets/pdfs/Andrew_Chael_CV.pdf) (as of September 9, 2026).
+[Click here to download a .pdf of my current CV]({{ site.url }}/assets/pdfs/Andrew_Chael_CV.pdf) (as of September 28, 2026).

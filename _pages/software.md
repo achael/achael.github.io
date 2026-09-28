@@ -16,9 +16,9 @@ header:
 ---
 ### `eht-imaging`
 
-I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regularized maximum likelihood imaging methods on EHT data. It has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
+I wrote `ehtim` (`eht-imaging`) as a Python framework for implementing regularized maximum likelihood imaging methods on EHT data. It has evolved into a flexible environment for manipulating, simulating, analyzing, and imaging interferometric data and is a workhorse of the EHT's data analysis pipeline.
 
-`ehtim` has so far been used in over 50 peer reviewed publications. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `ehtim` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
+`ehtim` has so far been used in over 50 peer-reviewed publications. If you reconstruct images from visibilities and are interested in trying out some new methods beyond CLEAN, give `ehtim` a shot! The code is on [GitHub](https://github.com/achael/eht-imaging), and the documentation is [here](https://achael.github.io/eht-imaging/).
 
 ### `kgeo`
 
@@ -28,7 +28,7 @@ I wrote `ehtim`  (`eht-imaging`) as a python framework for implementing regulari
 
 ### `KORAL`
 
-I maintain the two-temperature, radiative GRMHD C code [`KORAL`](https://github.com/achael/koral_lite) originally written by Aleksander Sadowski. I use `KORAL` to investigate the effects of adding new physics [like the spectral evolution of nonthermal electrons](https://arxiv.org/abs/1704.05092) or [more accurately modeling high-magnetization plasma](https://arxiv.org/abs/2404.01471) to standard GRMHD simulations of the EHT's target black hole sources. I am currently working on porting KORAL to a new, GPU-capable code. 
+I maintain the two-temperature, radiative GRMHD C code [`KORAL`](https://github.com/achael/koral_lite) originally written by Aleksander Sadowski. I use `KORAL` to investigate the effects of adding new physics [like the spectral evolution of nonthermal electrons](https://arxiv.org/abs/1704.05092) or [more accurately modeling high-magnetization plasma](https://arxiv.org/abs/2404.01471) to standard GRMHD simulations of the EHT's target black hole sources. I am currently working on porting `KORAL` to a new, GPU-capable code. 
 
 <br/><br/>
 

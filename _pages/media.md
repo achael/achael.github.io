@@ -23,15 +23,15 @@ header:
 
 * [APS _Physics Magazine_](https://physics.aps.org/articles/v15/22) (February 11, 2022)
 
-* [_Black Holes: The Edge of All we Know_ Documentary Film](https://www.blackholefilm.com) (2021).
+* [_Black Holes: The Edge of All We Know_ Documentary Film](https://www.blackholefilm.com) (2021)
 
-* [_Quanta Magazine_](https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/) (May 5, 2021).
+* [_Quanta Magazine_](https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/) (May 20, 2021)
 
-* [_The New York Times_](https://www.nytimes.com/2021/03/24/science/astronomy-messier-87-black-hole.html) (March 24, 2021).
+* [_The New York Times_](https://www.nytimes.com/2021/03/24/science/astronomy-messier-87-black-hole.html) (March 24, 2021)
 
-* [_Inverse_](https://www.inverse.com/science/new-images-of-black-hole-m87) (March 24, 2021).
+* [_Inverse_](https://www.inverse.com/science/new-images-of-black-hole-m87) (March 24, 2021)
 
-* [_New Scientist_](https://newscientist.com/article/2272226-new-picture-of-famous-black-hole-reveals-its-swirling-magnetic-field/) (March 24, 2021). 
+* [_New Scientist_](https://www.newscientist.com/article/2272226-new-picture-of-famous-black-hole-reveals-its-swirling-magnetic-field/) (March 24, 2021)
 
 * [Carleton College _Voice_](https://www.carleton.edu/voice/stories/seeing-black/) (Winter 2020)
 

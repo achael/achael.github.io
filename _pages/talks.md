@@ -20,22 +20,22 @@ header:
 #### 2025
 * "New Insights from Polarized Images of Black Holes"  
  _UToronto Astronomy Colloquium_. Toronto, ON. October 2025.  
- [video](https://www.youtube.com/watch?v=zPhgsAtjk-o&pp=ygUMYW5kcmV3IGNoYWVs) |  [slides](/assets/pdfs/2025/achael_ut_10_15_25.pdf)
+ [video](https://www.youtube.com/watch?v=zPhgsAtjk-o&pp=ygUMYW5kcmV3IGNoYWVs) | [slides](/assets/pdfs/2025/achael_ut_10_15_25.pdf)
  
 * "Insights from Polarized Images of Black Holes"  
  _Harvard ITC Colloquium_. Cambridge, MA. September 2025.  
- [video](https://www.youtube.com/watch?v=OWHtOiQeozw&t=12s&pp=ygUMYW5kcmV3IGNoYWVs ) |  [slides](/assets/pdfs/2025/achael_itc_9_25_25.pdf)
+ [video](https://www.youtube.com/watch?v=OWHtOiQeozw&t=12s&pp=ygUMYW5kcmV3IGNoYWVs) | [slides](/assets/pdfs/2025/achael_itc_9_25_25.pdf)
  
 * "Imaging Black Holes"  
  _International Congress of Basic Science_. Beijing, China. July 2025.  
- [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA) |  [slides](/assets/pdfs/2025/achael_icbs_07_16_25.pdf)
+ [video](https://www.youtube.com/watch?v=I14SPPpsPfw&t=1s&ab_channel=BIMSA) | [slides](/assets/pdfs/2025/achael_icbs_07_16_25.pdf)
     
 * "Insights from polarized black hole images"  
- _LANL Astronomy Seminar_. Los Alamos, New Mexico. June 2025.  
+ _LANL Astronomy Seminar_. Los Alamos, NM. June 2025.  
  [slides](/assets/pdfs/2025/achael_lanl_6_12_25.pdf)
   
 * "Black hole energy extraction from polarized images"  
- _Northwestern CIERA Theory Seminar_. Evanston, Illinois. March 2025.  
+ _Northwestern CIERA Theory Seminar_. Evanston, IL. April 2025.  
  [slides](/assets/pdfs/2025/achael_ciera_4_24_25.pdf)
   
 * "Black hole jet launching up close"  
@@ -210,7 +210,7 @@ header:
  _ITC lunch (Keto Prize Talk)_.  Cambridge, MA. May 2019.   
  [slides](/assets/pdfs/2019/achael_itclunch_05_02_19.pdf) | [video](https://youtu.be/SNHh2nyj20Q?t=865)
 
-* "Simulating and imaging supermassive black hole accretion flows.''  
+* "Simulating and imaging supermassive black hole accretion flows."  
  _Thesis Talk_. Cambridge, MA. April 30, 2019.  
  [video](https://www.youtube.com/watch?v=_kWLWihXQGs&feature=youtu.be) | [slides](/assets/pdfs/defense_pres_nohidden.pdf)
  
@@ -233,12 +233,12 @@ header:
  [slides](/assets/pdfs/2018/achael_ciera_10_18_18.pdf)
 
 * "Imaging a black hole with the Event Horizon Telescope."   
- _907th Amateur Telescope Makers of Boston Meeting._ Cambridge, MA. March 2018.  
+ _907th Amateur Telescope Makers of Boston Meeting._ Cambridge, MA. April 2018.  
  [slides](/assets/pdfs/2018/achael_atmob_04_08_18.pdf)
  
 #### 2016
 * "Imaging techniques for the Event Horizon Telescope."  
- _3rd Event Horizon Telescope Collaboration  Meeting._ Cambridge, MA. December 2016.   
+ _3rd Event Horizon Telescope Collaboration Meeting._ Cambridge, MA. December 2016.   
  [slides](/assets/pdfs/achael_imaging_workshop_2016.pdf)
 
 #### 2014
@@ -263,10 +263,10 @@ header:
  [slides](/assets/pdfs/2022/achael_aas_06_16_22.pdf)
  
 * "The inner shadow of the black hole in M87."  
- _16th Marcel Grossman Meeting._ Virtual. July 2021.  
+ _16th Marcel Grossmann Meeting._ Virtual. July 2021.  
  [slides](/assets/pdfs/2021/achael_marcelgrossman_07_08_21.pdf)
 
-* "Simulating and imaging black hole accretion flsows."  
+* "Simulating and imaging black hole accretion flows."  
  _AAS 235._ Honolulu, HI. January 2020.  
  [slides](/assets/pdfs/2019/achael_jsi_11_13_19.pdf)
 
@@ -275,7 +275,7 @@ header:
  [slides](/assets/pdfs/2019/achael_jsi_11_13_19.pdf)
 
 * "Electron heating physics in images and variability of Sgr A*."  
- _15th Marcel Grossman Meeting._  Rome, Italy. July 2018.  
+ _15th Marcel Grossmann Meeting._  Rome, Italy. July 2018.  
  [slides](/assets/pdfs/2018/achael_marcelgrossman_07_02_18.pdf)
  
 * "The role of electron heating physics in images and variability of Sgr A*."  
