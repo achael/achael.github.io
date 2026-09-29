@@ -21,7 +21,7 @@ header:
  [slides](/assets/pdfs/2025/achael_ursi_08_21_26.pdf)
  
  
-* "Dynamic Black Hole Magnetic Fields Revealed by the Event Horizon Telescope?"  
+* "Dynamic Black Hole Magnetic Fields Revealed by the Event Horizon Telescope"  
  _SPIE Astronomical Telescopes+Instrumentation_. Copenhagen, Denmark. July 2026.  
  [video](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14153/1415313/Dynamic-magnetic-fields-around-black-holes-revealed-by-the-Event/10.1117/12.3105315.full) | [slides](/assets/pdfs/2025/achael_spie_07_08_26.pdf)
  
@@ -35,9 +35,11 @@ header:
  _LAWPhysics Webinar_. Virtual. April 2026.  
  [video](https://www.youtube.com/watch?v=GRB_EIQWnrU&t=1766s) | [slides](/assets/pdfs/2025/achael_lawphysics_4_29_26.pdf)
 
+<!---
 * "What can we learn from polarized images of black holes?"  
  __. Oxford, UK. March 2026.  
  [video](https://drive.google.com/file/d/1uQUPK47GkarwLrlnzsd8vOATU2Dfb9Dv/view?usp=sharing) [slides](/assets/pdfs/2025/achael_oxford_3_23_26.pdf)
+ -->
  
 #### 2025
 * "New insights from polarized images of black holes"  
